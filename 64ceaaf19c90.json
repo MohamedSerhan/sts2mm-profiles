@@ -1,7 +1,7 @@
 {
   "name": "Testing Pack",
   "game_version": null,
-  "created_by": "sts2-mod-manager",
+  "created_by": "MohamedSerhan",
   "mods": [
     {
       "name": "Act 4: Final Ascent",
@@ -33,19 +33,18 @@
       "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/AutoPath.zip"
     },
     {
-      "name": "BetterSpire2 Lite",
-      "version": "v1.78",
+      "name": "BetterSpire2",
+      "version": "v1.81.2",
       "source": null,
-      "hash": "c81b8c0d3dfe3b943a77c58be1fa8787d250dc0588b5081384a87b457c7e052a",
+      "hash": "a3b86eaae3125b4a6732c2bbff1f453be3299b70434181256585bbd5f441c1fb",
       "files": [
-        "BetterSpire2Lite\\BetterSpire2Lite.dll",
-        "BetterSpire2Lite\\BetterSpire2Lite.json",
-        "BetterSpire2Lite\\__folder_managed_by_vortex"
+        "BetterSpire2.dll",
+        "BetterSpire2.json"
       ],
-      "folder_name": "BetterSpire2Lite",
-      "mod_id": "BetterSpire2Lite",
+      "folder_name": "BetterSpire2",
+      "mod_id": "BetterSpire2",
       "enabled": true,
-      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/BetterSpire2_Lite.zip"
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/BetterSpire2.zip"
     },
     {
       "name": "Highlight Card Types in Potion Description",
@@ -278,5 +277,5 @@
     }
   ],
   "created_at": "2026-05-04T21:03:11.388423100Z",
-  "updated_at": "2026-05-04T21:03:11.388423100Z"
+  "updated_at": "2026-05-04T21:09:42.127622400Z"
 }
