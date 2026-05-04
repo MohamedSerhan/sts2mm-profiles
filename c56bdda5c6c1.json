@@ -234,18 +234,6 @@
       "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/Skada__Damage_Meter.zip"
     },
     {
-      "name": "SlayWithController",
-      "version": "unknown",
-      "source": null,
-      "hash": "732acd53606bc559b3af1e64e431f11942a3b5cfbca15d758be3e0b166d06794",
-      "files": [
-        "SlayWithController\\SlayWithController.dll"
-      ],
-      "folder_name": "SlayWithController",
-      "enabled": true,
-      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/SlayWithController.zip"
-    },
-    {
       "name": "SpeedX",
       "version": "0.10.5",
       "source": "github:NandaKumar876/speedxsafety",
@@ -278,5 +266,5 @@
     }
   ],
   "created_at": "2026-05-04T04:12:16.488057300Z",
-  "updated_at": "2026-05-04T19:08:33.321570900Z"
+  "updated_at": "2026-05-04T19:09:41.905570700Z"
 }
