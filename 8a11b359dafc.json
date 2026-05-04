@@ -1,0 +1,282 @@
+{
+  "name": "OG Crue Spyer Pack",
+  "game_version": null,
+  "created_by": "sts2-mod-manager",
+  "mods": [
+    {
+      "name": "Act 4: Final Ascent",
+      "version": "0.1.2e",
+      "source": "github:kphxgames/Act4FinalAscent",
+      "hash": "8b47f856cf3ccfc31a2675c229db81d68481e05b4c3b2242cdb81054896e853d",
+      "files": [
+        "Act 4 Final Ascent-37-0-1-2f-1775405792\\Act4FinalAscent.dll",
+        "Act 4 Final Ascent-37-0-1-2f-1775405792\\Act4FinalAscent.json",
+        "Act 4 Final Ascent-37-0-1-2f-1775405792\\Act4FinalAscent.pck"
+      ],
+      "folder_name": "Act 4 Final Ascent-37-0-1-2f-1775405792",
+      "mod_id": "Act4FinalAscent",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/Act_4__Final_Ascent.zip"
+    },
+    {
+      "name": "AutoPath",
+      "version": "1.3.2",
+      "source": "github:jadistanbelly/autopath-sts2",
+      "hash": "92eaed637e189c281b79259af06cec8e9b41b0115a0c1e3372126905bbc67320",
+      "files": [
+        "AutoPath\\AutoPath.dll",
+        "AutoPath\\AutoPath.json"
+      ],
+      "folder_name": "AutoPath",
+      "mod_id": "AutoPath",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/AutoPath.zip"
+    },
+    {
+      "name": "BetterSpire2 Lite",
+      "version": "v1.78",
+      "source": "github:Sato-Isolated/BetterSpire",
+      "hash": "c81b8c0d3dfe3b943a77c58be1fa8787d250dc0588b5081384a87b457c7e052a",
+      "files": [
+        "BetterSpire2Lite\\BetterSpire2Lite.dll",
+        "BetterSpire2Lite\\BetterSpire2Lite.json",
+        "BetterSpire2Lite\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "BetterSpire2Lite",
+      "mod_id": "BetterSpire2Lite",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/BetterSpire2_Lite.zip"
+    },
+    {
+      "name": "Highlight Card Types in Potion Description",
+      "version": "v0.1.3",
+      "source": "github:SyraLessThanThree/HighlightPotionCards",
+      "hash": "31356c8a8195ed6768372163a2ddf9d0560fcbabf4f0c1af7f5401774ba0f65c",
+      "files": [
+        "HighlightPotionCards\\HighlightPotionCards.dll",
+        "HighlightPotionCards\\HighlightPotionCards.json",
+        "HighlightPotionCards\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "HighlightPotionCards",
+      "mod_id": "HighlightPotionCards",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/Highlight_Card_Types_in_Potion_Description.zip"
+    },
+    {
+      "name": "ModConfig",
+      "version": "0.2.1",
+      "source": "github:xhyrzldf/ModConfig-STS2",
+      "hash": "92e31f025ba9b8e29f18e4228a6dd4f6d690770fb500039394a7d8994073348c",
+      "files": [
+        "ModConfig\\ModConfig.dll",
+        "ModConfig\\ModConfig.dll.bak.9210",
+        "ModConfig\\ModConfig.dll.bak.9278",
+        "ModConfig\\ModConfig.json",
+        "ModConfig\\ModConfig.pck",
+        "ModConfig\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "ModConfig",
+      "mod_id": "ModConfig",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/ModConfig.zip"
+    },
+    {
+      "name": "ModSync",
+      "version": "v1.04",
+      "source": null,
+      "hash": "fcb5039bee914ffd587f298ba34f7d80c6b298dd5523c96e672f5166417ddb21",
+      "files": [
+        "ModSync\\ModSync.dll",
+        "ModSync\\ModSync.json",
+        "ModSync\\ModSync.pck"
+      ],
+      "folder_name": "ModSync",
+      "mod_id": "ModSync",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/ModSync.zip"
+    },
+    {
+      "name": "Multi-Hit Damage",
+      "version": "1.4",
+      "source": null,
+      "hash": "d583eb94a671ab3fa539fd256d7f031138aee4036fde42023c054545d55917fa",
+      "files": [
+        "MultiHitDamage\\mod_manifest.json",
+        "MultiHitDamage\\MultiHitDamage.dll",
+        "MultiHitDamage\\MultiHitDamage.pck",
+        "MultiHitDamage\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "MultiHitDamage",
+      "mod_id": "MultiHitDamage",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/Multi-Hit_Damage.zip"
+    },
+    {
+      "name": "Multiplayer Potion View",
+      "version": "0.2.0",
+      "source": "github:BAKAOLC/STS2-MultiPlayerPotionView",
+      "hash": "1638c91cbfe14b8da387a6866d86ab97449631768a275e3e31595f5ab6e48efc",
+      "files": [
+        "STS2-MultiPlayerPotionView-168-0-2-0-1774530567\\mod_manifest.json",
+        "STS2-MultiPlayerPotionView-168-0-2-0-1774530567\\STS2-MultiPlayerPotionView.dll"
+      ],
+      "folder_name": "STS2-MultiPlayerPotionView-168-0-2-0-1774530567",
+      "mod_id": "STS2-MultiPlayerPotionView",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/Multiplayer_Potion_View.zip"
+    },
+    {
+      "name": "Potion Rarity Display",
+      "version": "1.1",
+      "source": null,
+      "hash": "ef3feaa5c169f5c587dbbea85f1385a20238d77d0e52d3096d2dbfdc2cb47fba",
+      "files": [
+        "PotionRarityDisplay\\mod_manifest.json",
+        "PotionRarityDisplay\\PotionRarityDisplay.dll",
+        "PotionRarityDisplay\\PotionRarityDisplay.pck",
+        "PotionRarityDisplay\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "PotionRarityDisplay",
+      "mod_id": "PotionRarityDisplay",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/Potion_Rarity_Display.zip"
+    },
+    {
+      "name": "Relic Rarity Display",
+      "version": "1.1",
+      "source": null,
+      "hash": "3e0f32fe90d01529d0a8293c21bc1910a38297bd079147196ff1c16bf6a722fc",
+      "files": [
+        "RelicRarityDisplay\\mod_manifest.json",
+        "RelicRarityDisplay\\RelicRarityDisplay.dll",
+        "RelicRarityDisplay\\RelicRarityDisplay.pck",
+        "RelicRarityDisplay\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "RelicRarityDisplay",
+      "mod_id": "RelicRarityDisplay",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/Relic_Rarity_Display.zip"
+    },
+    {
+      "name": "Relics Reminder",
+      "version": "0.1.0",
+      "source": null,
+      "hash": "68d5224995ef4c6ae954aab918185188c0dd2d10f6a89ce85a08dfb37fd3d1e9",
+      "files": [
+        "RelicsReminder\\RelicsReminder.dll",
+        "RelicsReminder\\RelicsReminder.json",
+        "RelicsReminder\\RelicsReminder_init_marker_local.txt",
+        "RelicsReminder\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "RelicsReminder",
+      "mod_id": "RelicsReminder",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/Relics_Reminder.zip"
+    },
+    {
+      "name": "RitsuLib",
+      "version": "0.0.46",
+      "source": "github:BAKAOLC/STS2-RitsuLib",
+      "hash": "618ac368b14df4697a1ca9dd60ce8c7aa2bb67f711f577293764717a6dc822bb",
+      "files": [
+        "STS2-RitsuLib-137-0-0-46-1775898234\\mod_manifest.json",
+        "STS2-RitsuLib-137-0-0-46-1775898234\\STS2-RitsuLib.dll"
+      ],
+      "folder_name": "STS2-RitsuLib-137-0-0-46-1775898234",
+      "mod_id": "STS2-RitsuLib",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/RitsuLib.zip"
+    },
+    {
+      "name": "RouteSuggest",
+      "version": "1.9.0",
+      "source": "github:jiegec/STS2RouteSuggest",
+      "hash": "0321de0bf957bf9aa5fea9e934bfab323c33857284523116f3073152f15b912b",
+      "files": [
+        "RouteSuggest\\RouteSuggest.dll",
+        "RouteSuggest\\RouteSuggest.json",
+        "RouteSuggest\\RouteSuggest.pck",
+        "RouteSuggest\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "RouteSuggest",
+      "mod_id": "RouteSuggest",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/RouteSuggest.zip"
+    },
+    {
+      "name": "Show Player Hand Cards",
+      "version": "0.3.3",
+      "source": "github:BAKAOLC/STS2-ShowPlayerHandCards",
+      "hash": "0feae4d0613a4e09204fde68c9d0f3d21df1461643d9652cffe1dc11c5775d8b",
+      "files": [
+        "STS2-ShowPlayerHandCards-169-0-3-3-1775586240\\mod_manifest.json",
+        "STS2-ShowPlayerHandCards-169-0-3-3-1775586240\\STS2-ShowPlayerHandCards.dll"
+      ],
+      "folder_name": "STS2-ShowPlayerHandCards-169-0-3-3-1775586240",
+      "mod_id": "STS2-ShowPlayerHandCards",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/Show_Player_Hand_Cards.zip"
+    },
+    {
+      "name": "Skada: Damage Meter",
+      "version": "1.14.0",
+      "source": "github:bkader/Skada-Damage-Meter",
+      "hash": "c505fc69d5bea2df345e6e5314aa508d874aa94718c57affa5b7f4d6636aadb5",
+      "files": [
+        "DamageMeter\\DamageMeter.dll",
+        "DamageMeter\\DamageMeter.json",
+        "DamageMeter\\DamageMeter.pck",
+        "DamageMeter\\mod_manifest.json"
+      ],
+      "folder_name": "DamageMeter",
+      "mod_id": "DamageMeter",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/Skada__Damage_Meter.zip"
+    },
+    {
+      "name": "SlayWithController",
+      "version": "unknown",
+      "source": null,
+      "hash": "732acd53606bc559b3af1e64e431f11942a3b5cfbca15d758be3e0b166d06794",
+      "files": [
+        "SlayWithController\\SlayWithController.dll"
+      ],
+      "folder_name": "SlayWithController",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/SlayWithController.zip"
+    },
+    {
+      "name": "SpeedX",
+      "version": "0.10.5",
+      "source": "github:NandaKumar876/speedxsafety",
+      "hash": "260a0171f8b555f3a6f6c875bde9975ce9113b5e5da9cb60dd8d57ecf411e8aa",
+      "files": [
+        "SpeedX\\SpeedX.dll",
+        "SpeedX\\SpeedX.json",
+        "SpeedX\\SpeedX.pck",
+        "SpeedX\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "SpeedX",
+      "mod_id": "SpeedX",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/SpeedX.zip"
+    },
+    {
+      "name": "Unified Save Path",
+      "version": "1.0.0",
+      "source": null,
+      "hash": "08b7cbb36c7b48820e44c060d2dc6b6c49edbb945c7cb1e8f7a44866f7c650cc",
+      "files": [
+        "UnifiedSavePaths-6-1-0-3-1773792441\\UnifiedSavePath.dll",
+        "UnifiedSavePaths-6-1-0-3-1773792441\\UnifiedSavePath.json",
+        "UnifiedSavePaths-6-1-0-3-1773792441\\UnifiedSavePath.pck"
+      ],
+      "folder_name": "UnifiedSavePaths-6-1-0-3-1773792441",
+      "mod_id": "UnifiedSavePath",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/Unified_Save_Path.zip"
+    }
+  ],
+  "created_at": "2026-05-04T03:43:09.447085500Z",
+  "updated_at": "2026-05-04T03:43:09.447085500Z"
+}
