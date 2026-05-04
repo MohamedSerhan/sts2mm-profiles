@@ -33,19 +33,18 @@
       "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/AutoPath.zip"
     },
     {
-      "name": "BetterSpire2 Lite",
-      "version": "v1.78",
-      "source": "github:Sato-Isolated/BetterSpire",
-      "hash": "c81b8c0d3dfe3b943a77c58be1fa8787d250dc0588b5081384a87b457c7e052a",
+      "name": "BetterSpire2",
+      "version": "v1.81.2",
+      "source": null,
+      "hash": "a3b86eaae3125b4a6732c2bbff1f453be3299b70434181256585bbd5f441c1fb",
       "files": [
-        "BetterSpire2Lite\\BetterSpire2Lite.dll",
-        "BetterSpire2Lite\\BetterSpire2Lite.json",
-        "BetterSpire2Lite\\__folder_managed_by_vortex"
+        "BetterSpire2-2-1-81-2-1777163985\\BetterSpire2.dll",
+        "BetterSpire2-2-1-81-2-1777163985\\BetterSpire2.json"
       ],
-      "folder_name": "BetterSpire2Lite",
-      "mod_id": "BetterSpire2Lite",
+      "folder_name": "BetterSpire2-2-1-81-2-1777163985",
+      "mod_id": "BetterSpire2",
       "enabled": true,
-      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/BetterSpire2_Lite.zip"
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/BetterSpire2.zip"
     },
     {
       "name": "Highlight Card Types in Potion Description",
@@ -163,42 +162,39 @@
       "source": null,
       "hash": "68d5224995ef4c6ae954aab918185188c0dd2d10f6a89ce85a08dfb37fd3d1e9",
       "files": [
-        "RelicsReminder\\RelicsReminder.dll",
-        "RelicsReminder\\RelicsReminder.json",
-        "RelicsReminder\\RelicsReminder_init_marker_local.txt",
-        "RelicsReminder\\__folder_managed_by_vortex"
+        "RelicsReminder_dll\\RelicsReminder.dll",
+        "RelicsReminder_dll\\RelicsReminder.json"
       ],
-      "folder_name": "RelicsReminder",
+      "folder_name": "RelicsReminder_dll",
       "mod_id": "RelicsReminder",
       "enabled": true,
       "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/Relics_Reminder.zip"
     },
     {
       "name": "RitsuLib",
-      "version": "0.0.46",
+      "version": "0.2.21",
       "source": "github:BAKAOLC/STS2-RitsuLib",
-      "hash": "618ac368b14df4697a1ca9dd60ce8c7aa2bb67f711f577293764717a6dc822bb",
+      "hash": "c27a1a822853c11b7ff5aef31b3514478a55bc824907f82145783f87449012e4",
       "files": [
-        "STS2-RitsuLib-137-0-0-46-1775898234\\mod_manifest.json",
-        "STS2-RitsuLib-137-0-0-46-1775898234\\STS2-RitsuLib.dll"
+        "STS2 RitsuLib-137-0-2-21-1777835646\\mod_manifest.json",
+        "STS2 RitsuLib-137-0-2-21-1777835646\\STS2-RitsuLib.dll"
       ],
-      "folder_name": "STS2-RitsuLib-137-0-0-46-1775898234",
+      "folder_name": "STS2 RitsuLib-137-0-2-21-1777835646",
       "mod_id": "STS2-RitsuLib",
       "enabled": true,
       "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/RitsuLib.zip"
     },
     {
       "name": "RouteSuggest",
-      "version": "1.9.0",
+      "version": "1.11.0",
       "source": "github:jiegec/STS2RouteSuggest",
-      "hash": "0321de0bf957bf9aa5fea9e934bfab323c33857284523116f3073152f15b912b",
+      "hash": "b1d2228b21e56de1848ae2534d09dbf53d96133055daf5ffacab84032f2867df",
       "files": [
-        "RouteSuggest\\RouteSuggest.dll",
-        "RouteSuggest\\RouteSuggest.json",
-        "RouteSuggest\\RouteSuggest.pck",
-        "RouteSuggest\\__folder_managed_by_vortex"
+        "RouteSuggest-v1.11.0.zip-54-1-11-0-1776829629\\RouteSuggest.dll",
+        "RouteSuggest-v1.11.0.zip-54-1-11-0-1776829629\\RouteSuggest.json",
+        "RouteSuggest-v1.11.0.zip-54-1-11-0-1776829629\\RouteSuggest.pck"
       ],
-      "folder_name": "RouteSuggest",
+      "folder_name": "RouteSuggest-v1.11.0.zip-54-1-11-0-1776829629",
       "mod_id": "RouteSuggest",
       "enabled": true,
       "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/RouteSuggest.zip"
@@ -266,5 +262,5 @@
     }
   ],
   "created_at": "2026-05-04T04:12:16.488057300Z",
-  "updated_at": "2026-05-04T19:09:41.905570700Z"
+  "updated_at": "2026-05-04T20:32:06.912471200Z"
 }
