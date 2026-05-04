@@ -173,6 +173,22 @@
       "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/Relics_Reminder_0.1.0.zip"
     },
     {
+      "name": "RemoveMultiplayerPlayerLimit",
+      "version": "0.1.6-test",
+      "source": null,
+      "hash": "f799d6cc794e7bbf419b19536c7eded3616c2b4f284a1a28b65df7f4e9c525fd",
+      "files": [
+        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit\\config.ini",
+        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.dll",
+        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.json",
+        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.pck"
+      ],
+      "folder_name": "RemoveMultiplayerPlayerLimit",
+      "mod_id": "RemoveMultiplayerPlayerLimit",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/RemoveMultiplayerPlayerLimit_0.1.6-test.zip"
+    },
+    {
       "name": "RitsuLib",
       "version": "0.0.46",
       "source": "github:BAKAOLC/STS2-RitsuLib",
@@ -233,18 +249,6 @@
       "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/Skada__Damage_Meter_1.14.0.zip"
     },
     {
-      "name": "SlayWithController",
-      "version": "unknown",
-      "source": null,
-      "hash": "732acd53606bc559b3af1e64e431f11942a3b5cfbca15d758be3e0b166d06794",
-      "files": [
-        "SlayWithController\\SlayWithController.dll"
-      ],
-      "folder_name": "SlayWithController",
-      "enabled": true,
-      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/SlayWithController_unknown.zip"
-    },
-    {
       "name": "SpeedX",
       "version": "0.10.5",
       "source": "github:NandaKumar876/speedxsafety",
@@ -277,5 +281,5 @@
     }
   ],
   "created_at": "2026-05-04T21:07:21.303554Z",
-  "updated_at": "2026-05-04T21:42:55.352089600Z"
+  "updated_at": "2026-05-04T23:22:34.907877100Z"
 }
