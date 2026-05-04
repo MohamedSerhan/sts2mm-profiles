@@ -1,0 +1,133 @@
+{
+  "name": "testing",
+  "game_version": null,
+  "created_by": "sts2-mod-manager",
+  "mods": [
+    {
+      "name": "ModConfig",
+      "version": "0.2.1",
+      "source": "github:xhyrzldf/ModConfig-STS2",
+      "hash": "92e31f025ba9b8e29f18e4228a6dd4f6d690770fb500039394a7d8994073348c",
+      "files": [
+        "ModConfig\\ModConfig.dll",
+        "ModConfig\\ModConfig.dll.bak.9210",
+        "ModConfig\\ModConfig.dll.bak.9278",
+        "ModConfig\\ModConfig.json",
+        "ModConfig\\ModConfig.pck",
+        "ModConfig\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "ModConfig",
+      "mod_id": "ModConfig",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/ModConfig_0.2.1.zip"
+    },
+    {
+      "name": "ModSync",
+      "version": "v1.04",
+      "source": null,
+      "hash": "fcb5039bee914ffd587f298ba34f7d80c6b298dd5523c96e672f5166417ddb21",
+      "files": [
+        "ModSync\\ModSync.dll",
+        "ModSync\\ModSync.json",
+        "ModSync\\ModSync.pck"
+      ],
+      "folder_name": "ModSync",
+      "mod_id": "ModSync",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/ModSync_1.04.zip"
+    },
+    {
+      "name": "Potion Rarity Display",
+      "version": "1.1",
+      "source": null,
+      "hash": "ef3feaa5c169f5c587dbbea85f1385a20238d77d0e52d3096d2dbfdc2cb47fba",
+      "files": [
+        "PotionRarityDisplay\\mod_manifest.json",
+        "PotionRarityDisplay\\PotionRarityDisplay.dll",
+        "PotionRarityDisplay\\PotionRarityDisplay.pck",
+        "PotionRarityDisplay\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "PotionRarityDisplay",
+      "mod_id": "PotionRarityDisplay",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/Potion_Rarity_Display_1.1.zip"
+    },
+    {
+      "name": "RitsuLib",
+      "version": "0.0.46",
+      "source": "github:BAKAOLC/STS2-RitsuLib",
+      "hash": "618ac368b14df4697a1ca9dd60ce8c7aa2bb67f711f577293764717a6dc822bb",
+      "files": [
+        "STS2-RitsuLib-137-0-0-46-1775898234\\mod_manifest.json",
+        "STS2-RitsuLib-137-0-0-46-1775898234\\STS2-RitsuLib.dll"
+      ],
+      "folder_name": "STS2-RitsuLib-137-0-0-46-1775898234",
+      "mod_id": "STS2-RitsuLib",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/RitsuLib_0.0.46.zip"
+    },
+    {
+      "name": "RouteSuggest",
+      "version": "1.9.0",
+      "source": "github:jiegec/STS2RouteSuggest",
+      "hash": "0321de0bf957bf9aa5fea9e934bfab323c33857284523116f3073152f15b912b",
+      "files": [
+        "RouteSuggest\\RouteSuggest.dll",
+        "RouteSuggest\\RouteSuggest.json",
+        "RouteSuggest\\RouteSuggest.pck",
+        "RouteSuggest\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "RouteSuggest",
+      "mod_id": "RouteSuggest",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/RouteSuggest_1.9.0.zip"
+    },
+    {
+      "name": "Show Player Hand Cards",
+      "version": "0.3.3",
+      "source": "github:BAKAOLC/STS2-ShowPlayerHandCards",
+      "hash": "0feae4d0613a4e09204fde68c9d0f3d21df1461643d9652cffe1dc11c5775d8b",
+      "files": [
+        "STS2-ShowPlayerHandCards-169-0-3-3-1775586240\\mod_manifest.json",
+        "STS2-ShowPlayerHandCards-169-0-3-3-1775586240\\STS2-ShowPlayerHandCards.dll"
+      ],
+      "folder_name": "STS2-ShowPlayerHandCards-169-0-3-3-1775586240",
+      "mod_id": "STS2-ShowPlayerHandCards",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/Show_Player_Hand_Cards_0.3.3.zip"
+    },
+    {
+      "name": "SpeedX",
+      "version": "0.10.5",
+      "source": "github:NandaKumar876/speedxsafety",
+      "hash": "260a0171f8b555f3a6f6c875bde9975ce9113b5e5da9cb60dd8d57ecf411e8aa",
+      "files": [
+        "SpeedX\\SpeedX.dll",
+        "SpeedX\\SpeedX.json",
+        "SpeedX\\SpeedX.pck",
+        "SpeedX\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "SpeedX",
+      "mod_id": "SpeedX",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/SpeedX_0.10.5.zip"
+    },
+    {
+      "name": "Unified Save Path",
+      "version": "1.0.0",
+      "source": null,
+      "hash": "08b7cbb36c7b48820e44c060d2dc6b6c49edbb945c7cb1e8f7a44866f7c650cc",
+      "files": [
+        "UnifiedSavePaths-6-1-0-3-1773792441\\UnifiedSavePath.dll",
+        "UnifiedSavePaths-6-1-0-3-1773792441\\UnifiedSavePath.json",
+        "UnifiedSavePaths-6-1-0-3-1773792441\\UnifiedSavePath.pck"
+      ],
+      "folder_name": "UnifiedSavePaths-6-1-0-3-1773792441",
+      "mod_id": "UnifiedSavePath",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/Unified_Save_Path_1.0.0.zip"
+    }
+  ],
+  "created_at": "2026-05-04T21:44:20.176667400Z",
+  "updated_at": "2026-05-04T21:44:20.176667400Z"
+}
