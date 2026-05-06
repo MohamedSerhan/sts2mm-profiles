@@ -33,18 +33,30 @@
       "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/AutoPath_1.3.2.zip"
     },
     {
-      "name": "BetterSpire2",
+      "name": "BetterSpire2 Lite",
       "version": "v1.81.2",
       "source": null,
-      "hash": "a3b86eaae3125b4a6732c2bbff1f453be3299b70434181256585bbd5f441c1fb",
+      "hash": "50da98b7e4b26d6d6488ca6294150eb07b8cfbae2f94bfe764e643affeff97fd",
       "files": [
-        "BetterSpire2.dll",
-        "BetterSpire2.json"
+        "BetterSpire2Lite.dll",
+        "BetterSpire2Lite.json"
       ],
-      "folder_name": "BetterSpire2",
-      "mod_id": "BetterSpire2",
+      "folder_name": "BetterSpire2Lite",
+      "mod_id": "BetterSpire2Lite",
       "enabled": true,
-      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/BetterSpire2_1.81.2.zip"
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/BetterSpire2_Lite_1.81.2.zip"
+    },
+    {
+      "name": "BetterSpire2Lite",
+      "version": "unknown",
+      "source": null,
+      "hash": "50da98b7e4b26d6d6488ca6294150eb07b8cfbae2f94bfe764e643affeff97fd",
+      "files": [
+        "BetterSpire2Lite.dll"
+      ],
+      "folder_name": "BetterSpire2Lite",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/BetterSpire2Lite_unknown.zip"
     },
     {
       "name": "Highlight Card Types in Potion Description",
@@ -265,6 +277,20 @@
       "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/SpeedX_0.10.5.zip"
     },
     {
+      "name": "sts2AITeammate",
+      "version": "1.0.2",
+      "source": null,
+      "hash": "9ae067ecf2c7beca64ec1a1bca011ac018b07b3c5ddc2d163ed4b8cd0e664822",
+      "files": [
+        "sts2AITeammate.dll",
+        "sts2AITeammate.json"
+      ],
+      "folder_name": "sts2AITeammate",
+      "mod_id": "sts2AITeammate",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/sts2AITeammate_1.0.2.zip"
+    },
+    {
       "name": "Unified Save Path",
       "version": "1.0.0",
       "source": null,
@@ -281,5 +307,5 @@
     }
   ],
   "created_at": "2026-05-04T21:07:21.303554Z",
-  "updated_at": "2026-05-06T03:53:41.594751600Z"
+  "updated_at": "2026-05-06T23:58:27.897428500Z"
 }
