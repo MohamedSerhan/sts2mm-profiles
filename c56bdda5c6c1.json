@@ -34,17 +34,32 @@
     },
     {
       "name": "BetterSpire2 Lite",
-      "version": "v1.81.2",
+      "version": "v1.82.1",
       "source": null,
-      "hash": "50da98b7e4b26d6d6488ca6294150eb07b8cfbae2f94bfe764e643affeff97fd",
+      "hash": "518ce34e159a8b1f07fe26ab21df1e4556e982c44f1b5d0c744b198d194d8807",
       "files": [
-        "BetterSpire2Lite.dll",
-        "BetterSpire2Lite.json"
+        "BetterSpire2Lite\\BetterSpire2Lite.dll",
+        "BetterSpire2Lite\\BetterSpire2Lite.json",
+        "BetterSpire2Lite\\BetterSpire2_localization\\deu.lang",
+        "BetterSpire2Lite\\BetterSpire2_localization\\eng.lang",
+        "BetterSpire2Lite\\BetterSpire2_localization\\esp.lang",
+        "BetterSpire2Lite\\BetterSpire2_localization\\fra.lang",
+        "BetterSpire2Lite\\BetterSpire2_localization\\ita.lang",
+        "BetterSpire2Lite\\BetterSpire2_localization\\jpn.lang",
+        "BetterSpire2Lite\\BetterSpire2_localization\\kor.lang",
+        "BetterSpire2Lite\\BetterSpire2_localization\\pol.lang",
+        "BetterSpire2Lite\\BetterSpire2_localization\\ptb.lang",
+        "BetterSpire2Lite\\BetterSpire2_localization\\README.txt",
+        "BetterSpire2Lite\\BetterSpire2_localization\\rus.lang",
+        "BetterSpire2Lite\\BetterSpire2_localization\\spa.lang",
+        "BetterSpire2Lite\\BetterSpire2_localization\\tha.lang",
+        "BetterSpire2Lite\\BetterSpire2_localization\\tur.lang",
+        "BetterSpire2Lite\\BetterSpire2_localization\\zhs.lang"
       ],
       "folder_name": "BetterSpire2Lite",
       "mod_id": "BetterSpire2Lite",
       "enabled": true,
-      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/BetterSpire2_Lite_1.81.2.zip"
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/BetterSpire2_Lite_1.82.1.zip"
     },
     {
       "name": "Highlight Card Types in Potion Description",
@@ -175,7 +190,7 @@
     {
       "name": "RemoveMultiplayerPlayerLimit",
       "version": "0.1.6-test",
-      "source": null,
+      "source": "github:Rain156/sts2-RMP-Mods",
       "hash": "f799d6cc794e7bbf419b19536c7eded3616c2b4f284a1a28b65df7f4e9c525fd",
       "files": [
         "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit\\config.ini",
@@ -190,17 +205,24 @@
     },
     {
       "name": "RitsuLib",
-      "version": "0.0.46",
+      "version": "0.2.26",
       "source": "github:BAKAOLC/STS2-RitsuLib",
-      "hash": "618ac368b14df4697a1ca9dd60ce8c7aa2bb67f711f577293764717a6dc822bb",
+      "hash": "bddd50b45ad1ddc32eb5e56ad3f5cf003f1b4f5f4e2bc52ed9c4003739a0f2e4",
       "files": [
-        "STS2-RitsuLib-137-0-0-46-1775898234\\mod_manifest.json",
-        "STS2-RitsuLib-137-0-0-46-1775898234\\STS2-RitsuLib.dll"
+        "STS2-RitsuLib\\lib\\0.103.2\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\lib\\0.103.2\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\lib\\0.103.2\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\lib\\0.104.0\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\lib\\0.104.0\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\lib\\0.104.0\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\mod_manifest.json",
+        "STS2-RitsuLib\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\STS2-RitsuLib.Loader.pdb"
       ],
-      "folder_name": "STS2-RitsuLib-137-0-0-46-1775898234",
+      "folder_name": "STS2-RitsuLib",
       "mod_id": "STS2-RitsuLib",
       "enabled": true,
-      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/RitsuLib_0.0.46.zip"
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/RitsuLib_0.2.26.zip"
     },
     {
       "name": "RouteSuggest",
@@ -220,58 +242,32 @@
     },
     {
       "name": "Show Player Hand Cards",
-      "version": "0.3.3",
+      "version": "0.5.2",
       "source": "github:BAKAOLC/STS2-ShowPlayerHandCards",
-      "hash": "0feae4d0613a4e09204fde68c9d0f3d21df1461643d9652cffe1dc11c5775d8b",
+      "hash": "ef20b0bb975844d591fcb764007024f4c1c7412640c7e50167c0328c658f4c07",
       "files": [
-        "STS2-ShowPlayerHandCards-169-0-3-3-1775586240\\mod_manifest.json",
-        "STS2-ShowPlayerHandCards-169-0-3-3-1775586240\\STS2-ShowPlayerHandCards.dll"
+        "STS2-ShowPlayerHandCards\\mod_manifest.json",
+        "STS2-ShowPlayerHandCards\\STS2-ShowPlayerHandCards.dll"
       ],
-      "folder_name": "STS2-ShowPlayerHandCards-169-0-3-3-1775586240",
+      "folder_name": "STS2-ShowPlayerHandCards",
       "mod_id": "STS2-ShowPlayerHandCards",
       "enabled": true,
-      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/Show_Player_Hand_Cards_0.3.3.zip"
-    },
-    {
-      "name": "Skada: Damage Meter",
-      "version": "1.14.0",
-      "source": "github:bkader/Skada-Damage-Meter",
-      "hash": "c505fc69d5bea2df345e6e5314aa508d874aa94718c57affa5b7f4d6636aadb5",
-      "files": [
-        "DamageMeter\\DamageMeter.dll",
-        "DamageMeter\\DamageMeter.json",
-        "DamageMeter\\DamageMeter.pck",
-        "DamageMeter\\mod_manifest.json"
-      ],
-      "folder_name": "DamageMeter",
-      "mod_id": "DamageMeter",
-      "enabled": true,
-      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/Skada__Damage_Meter_1.14.0.zip"
-    },
-    {
-      "name": "SpeedX",
-      "version": "0.10.5",
-      "source": "github:NandaKumar876/speedxsafety",
-      "hash": "260a0171f8b555f3a6f6c875bde9975ce9113b5e5da9cb60dd8d57ecf411e8aa",
-      "files": [
-        "SpeedX\\SpeedX.dll",
-        "SpeedX\\SpeedX.json",
-        "SpeedX\\SpeedX.pck",
-        "SpeedX\\__folder_managed_by_vortex"
-      ],
-      "folder_name": "SpeedX",
-      "mod_id": "SpeedX",
-      "enabled": true,
-      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/SpeedX_0.10.5.zip"
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/Show_Player_Hand_Cards_0.5.2.zip"
     },
     {
       "name": "sts2AITeammate",
       "version": "1.0.2",
-      "source": null,
+      "source": "github:SallyHong2347/sts2-ai-teammate",
       "hash": "9ae067ecf2c7beca64ec1a1bca011ac018b07b3c5ddc2d163ed4b8cd0e664822",
       "files": [
-        "sts2AITeammate.dll",
-        "sts2AITeammate.json"
+        "sts2AITeammate\\config\\ai-behavior\\default.aiconfig",
+        "sts2AITeammate\\config\\ai-behavior\\defect.aiconfig",
+        "sts2AITeammate\\config\\ai-behavior\\ironclad.aiconfig",
+        "sts2AITeammate\\config\\ai-behavior\\necrobinder.aiconfig",
+        "sts2AITeammate\\config\\ai-behavior\\regent.aiconfig",
+        "sts2AITeammate\\config\\ai-behavior\\silent.aiconfig",
+        "sts2AITeammate\\sts2AITeammate.dll",
+        "sts2AITeammate\\sts2AITeammate.json"
       ],
       "folder_name": "sts2AITeammate",
       "mod_id": "sts2AITeammate",
@@ -281,19 +277,49 @@
     {
       "name": "Unified Save Path",
       "version": "1.0.0",
-      "source": null,
+      "source": "github:luojiesi/SLS2Mods",
       "hash": "08b7cbb36c7b48820e44c060d2dc6b6c49edbb945c7cb1e8f7a44866f7c650cc",
       "files": [
-        "UnifiedSavePaths-6-1-0-3-1773792441\\UnifiedSavePath.dll",
-        "UnifiedSavePaths-6-1-0-3-1773792441\\UnifiedSavePath.json",
-        "UnifiedSavePaths-6-1-0-3-1773792441\\UnifiedSavePath.pck"
+        "UnifiedSavePath\\UnifiedSavePath.dll",
+        "UnifiedSavePath\\UnifiedSavePath.json",
+        "UnifiedSavePath\\UnifiedSavePath.pck"
       ],
-      "folder_name": "UnifiedSavePaths-6-1-0-3-1773792441",
+      "folder_name": "UnifiedSavePath",
       "mod_id": "UnifiedSavePath",
       "enabled": true,
       "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/Unified_Save_Path_1.0.0.zip"
+    },
+    {
+      "name": "皮皮极速: SpeedX",
+      "version": "0.11.7",
+      "source": null,
+      "hash": "fe152522c9d030290c2db2eb3777ff3d7f835be5cb8c739df9c3e64e7da6384d",
+      "files": [
+        "SpeedX\\SpeedX.dll",
+        "SpeedX\\SpeedX.json",
+        "SpeedX\\SpeedX.pck"
+      ],
+      "folder_name": "SpeedX",
+      "mod_id": "SpeedX",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/皮皮极速__SpeedX_0.11.7.zip"
+    },
+    {
+      "name": "皮皮统计: Skada",
+      "version": "1.14.4",
+      "source": null,
+      "hash": "53967b68ed6f5cf1cbe3f7ad21f3ae1127eb4eb23386a2b51feb490487f8fadd",
+      "files": [
+        "DamageMeter\\DamageMeter.dll",
+        "DamageMeter\\DamageMeter.json",
+        "DamageMeter\\DamageMeter.pck"
+      ],
+      "folder_name": "DamageMeter",
+      "mod_id": "DamageMeter",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/皮皮统计__Skada_1.14.4.zip"
     }
   ],
   "created_at": "2026-05-04T21:07:21.303554Z",
-  "updated_at": "2026-05-09T20:13:41.477846600Z"
+  "updated_at": "2026-05-09T22:39:59.237506100Z"
 }
