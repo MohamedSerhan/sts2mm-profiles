@@ -33,33 +33,33 @@
       "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/AutoPath_1.3.2.zip"
     },
     {
-      "name": "BetterSpire2 Lite",
-      "version": "v1.82.1",
+      "name": "BetterSpire2",
+      "version": "v1.82.2",
       "source": null,
-      "hash": "518ce34e159a8b1f07fe26ab21df1e4556e982c44f1b5d0c744b198d194d8807",
+      "hash": "6457cc7006919376b4f435777b339ff9a7286f91dafc0a696c6215365d14caa9",
       "files": [
-        "BetterSpire2Lite\\BetterSpire2Lite.dll",
-        "BetterSpire2Lite\\BetterSpire2Lite.json",
-        "BetterSpire2Lite\\BetterSpire2_localization\\deu.lang",
-        "BetterSpire2Lite\\BetterSpire2_localization\\eng.lang",
-        "BetterSpire2Lite\\BetterSpire2_localization\\esp.lang",
-        "BetterSpire2Lite\\BetterSpire2_localization\\fra.lang",
-        "BetterSpire2Lite\\BetterSpire2_localization\\ita.lang",
-        "BetterSpire2Lite\\BetterSpire2_localization\\jpn.lang",
-        "BetterSpire2Lite\\BetterSpire2_localization\\kor.lang",
-        "BetterSpire2Lite\\BetterSpire2_localization\\pol.lang",
-        "BetterSpire2Lite\\BetterSpire2_localization\\ptb.lang",
-        "BetterSpire2Lite\\BetterSpire2_localization\\README.txt",
-        "BetterSpire2Lite\\BetterSpire2_localization\\rus.lang",
-        "BetterSpire2Lite\\BetterSpire2_localization\\spa.lang",
-        "BetterSpire2Lite\\BetterSpire2_localization\\tha.lang",
-        "BetterSpire2Lite\\BetterSpire2_localization\\tur.lang",
-        "BetterSpire2Lite\\BetterSpire2_localization\\zhs.lang"
+        "BetterSpire2\\BetterSpire2.dll",
+        "BetterSpire2\\BetterSpire2.json",
+        "BetterSpire2\\BetterSpire2_localization\\deu.lang",
+        "BetterSpire2\\BetterSpire2_localization\\eng.lang",
+        "BetterSpire2\\BetterSpire2_localization\\esp.lang",
+        "BetterSpire2\\BetterSpire2_localization\\fra.lang",
+        "BetterSpire2\\BetterSpire2_localization\\ita.lang",
+        "BetterSpire2\\BetterSpire2_localization\\jpn.lang",
+        "BetterSpire2\\BetterSpire2_localization\\kor.lang",
+        "BetterSpire2\\BetterSpire2_localization\\pol.lang",
+        "BetterSpire2\\BetterSpire2_localization\\ptb.lang",
+        "BetterSpire2\\BetterSpire2_localization\\README.txt",
+        "BetterSpire2\\BetterSpire2_localization\\rus.lang",
+        "BetterSpire2\\BetterSpire2_localization\\spa.lang",
+        "BetterSpire2\\BetterSpire2_localization\\tha.lang",
+        "BetterSpire2\\BetterSpire2_localization\\tur.lang",
+        "BetterSpire2\\BetterSpire2_localization\\zhs.lang"
       ],
-      "folder_name": "BetterSpire2Lite",
-      "mod_id": "BetterSpire2Lite",
+      "folder_name": "BetterSpire2",
+      "mod_id": "BetterSpire2",
       "enabled": true,
-      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/BetterSpire2_Lite_1.82.1.zip"
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/BetterSpire2_1.82.2.zip"
     },
     {
       "name": "Highlight Card Types in Potion Description",
@@ -141,9 +141,9 @@
     },
     {
       "name": "Multiplayer Save Slots",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "source": "github:jadistanbelly/sts2-multiplayer-save-slots",
-      "hash": "5a5580e32d63b73624fe8303ea41995d6e59c204d32527a83b4e592fd5c2abc1",
+      "hash": "caeec2db497a5cd63c5c4e0f117ad07228bb27cb496d41019ea730e5f85dbbb0",
       "files": [
         "MultiplayerSaveSlots\\MultiplayerSaveSlots.dll",
         "MultiplayerSaveSlots\\MultiplayerSaveSlots.json"
@@ -151,7 +151,7 @@
       "folder_name": "MultiplayerSaveSlots",
       "mod_id": "MultiplayerSaveSlots",
       "enabled": true,
-      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/Multiplayer_Save_Slots_0.1.0.zip"
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/Multiplayer_Save_Slots_0.2.0.zip"
     },
     {
       "name": "Potion Rarity Display",
@@ -335,5 +335,5 @@
     }
   ],
   "created_at": "2026-05-04T21:07:21.303554Z",
-  "updated_at": "2026-05-11T02:06:43.650186900Z"
+  "updated_at": "2026-05-11T20:45:47.249254900Z"
 }
