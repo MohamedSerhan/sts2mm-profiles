@@ -33,6 +33,21 @@
       "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/AutoPath_1.3.2.zip"
     },
     {
+      "name": "BaseLib",
+      "version": "v3.1.2",
+      "source": null,
+      "hash": "e8ec6dda30f0e7c67858e42d47c234f0ace2eea8a41b9857c857f9f87f93180c",
+      "files": [
+        "BaseLib\\BaseLib.dll",
+        "BaseLib\\BaseLib.json",
+        "BaseLib\\BaseLib.pck"
+      ],
+      "folder_name": "BaseLib",
+      "mod_id": "BaseLib",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/BaseLib_3.1.2.zip"
+    },
+    {
       "name": "BetterSpire2",
       "version": "v1.82.2",
       "source": null,
@@ -220,7 +235,7 @@
     {
       "name": "RitsuLib",
       "version": "0.2.26",
-      "source": "github:BAKAOLC/STS2-RitsuLib",
+      "source": null,
       "hash": "bddd50b45ad1ddc32eb5e56ad3f5cf003f1b4f5f4e2bc52ed9c4003739a0f2e4",
       "files": [
         "STS2-RitsuLib\\lib\\0.103.2\\STS2-RitsuLib.dll",
@@ -335,5 +350,5 @@
     }
   ],
   "created_at": "2026-05-04T21:07:21.303554Z",
-  "updated_at": "2026-05-11T20:45:47.249254900Z"
+  "updated_at": "2026-05-12T02:29:28.601618800Z"
 }
