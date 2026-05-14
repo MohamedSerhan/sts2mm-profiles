@@ -156,9 +156,9 @@
     },
     {
       "name": "Multiplayer Save Slots",
-      "version": "0.2.0",
+      "version": "0.2.2",
       "source": "github:jadistanbelly/sts2-multiplayer-save-slots",
-      "hash": "caeec2db497a5cd63c5c4e0f117ad07228bb27cb496d41019ea730e5f85dbbb0",
+      "hash": "789b4ff8a20fd749397c1566a8edcefb30e70de6ccf6069d643dc6c1a46af897",
       "files": [
         "MultiplayerSaveSlots\\MultiplayerSaveSlots.dll",
         "MultiplayerSaveSlots\\MultiplayerSaveSlots.json"
@@ -166,7 +166,7 @@
       "folder_name": "MultiplayerSaveSlots",
       "mod_id": "MultiplayerSaveSlots",
       "enabled": true,
-      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/Multiplayer_Save_Slots_0.2.0.zip"
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/Multiplayer_Save_Slots_0.2.2.zip"
     },
     {
       "name": "Potion Rarity Display",
@@ -234,9 +234,9 @@
     },
     {
       "name": "RitsuLib",
-      "version": "0.2.26",
+      "version": "0.2.31",
       "source": "github:BAKAOLC/STS2-RitsuLib",
-      "hash": "bddd50b45ad1ddc32eb5e56ad3f5cf003f1b4f5f4e2bc52ed9c4003739a0f2e4",
+      "hash": "48196a56588b741f70ef09c832e3d0ac4d5840a0720a58e59f4544c22678676e",
       "files": [
         "STS2-RitsuLib\\lib\\0.103.2\\STS2-RitsuLib.dll",
         "STS2-RitsuLib\\lib\\0.103.2\\STS2-RitsuLib.pdb",
@@ -244,6 +244,9 @@
         "STS2-RitsuLib\\lib\\0.104.0\\STS2-RitsuLib.dll",
         "STS2-RitsuLib\\lib\\0.104.0\\STS2-RitsuLib.pdb",
         "STS2-RitsuLib\\lib\\0.104.0\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\lib\\0.105.1\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\lib\\0.105.1\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\lib\\0.105.1\\STS2-RitsuLib.xml",
         "STS2-RitsuLib\\mod_manifest.json",
         "STS2-RitsuLib\\STS2-RitsuLib.dll",
         "STS2-RitsuLib\\STS2-RitsuLib.Loader.pdb"
@@ -251,7 +254,7 @@
       "folder_name": "STS2-RitsuLib",
       "mod_id": "STS2-RitsuLib",
       "enabled": true,
-      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/RitsuLib_0.2.26.zip"
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/RitsuLib_0.2.31.zip"
     },
     {
       "name": "RouteSuggest",
@@ -350,6 +353,6 @@
     }
   ],
   "created_at": "2026-05-04T21:07:21.303554Z",
-  "updated_at": "2026-05-14T17:28:03.864519300Z",
+  "updated_at": "2026-05-14T17:35:40.593942500Z",
   "public": true
 }
