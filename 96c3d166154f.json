@@ -20,7 +20,7 @@
       "mod_id": "ModConfig",
       "enabled": true,
       "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/ModConfig_v0.2.1.zip",
-      "bundle_sha256": "43747433edf4aed62b06f67c3ee5d6ff6e019986c958b321371261c1ab9886ae"
+      "bundle_sha256": "2ecfa0520a0a2c848eebd06a0866767400f96a239f2fafec11c5f8eea5dc4d05"
     },
     {
       "name": "ModSync",
@@ -36,7 +36,7 @@
       "mod_id": "ModSync",
       "enabled": true,
       "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/ModSync_v1.04.zip",
-      "bundle_sha256": "eba918959ce7c7daa6d81b4ce640ad9af281ce011926b1ffd9a2426de15e5498"
+      "bundle_sha256": "3341411ac8c398b251adf844464d8c987b2e47f62f1c5b54b7569c8bf7152ad4"
     },
     {
       "name": "Potion Rarity Display",
@@ -53,7 +53,7 @@
       "mod_id": "PotionRarityDisplay",
       "enabled": true,
       "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Potion_Rarity_Display_v1.1.zip",
-      "bundle_sha256": "9ae660cddaf7d61adbc26b48cfbc1549b78ced573c5c2168177a52b0fafaa062"
+      "bundle_sha256": "048f871bfead18079df05ae636d7c627fa196ba73ace3ddb9d2730121d0813d3"
     },
     {
       "name": "RitsuLib",
@@ -68,7 +68,7 @@
       "mod_id": "STS2-RitsuLib",
       "enabled": true,
       "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.0.46.zip",
-      "bundle_sha256": "991bceb7385ec9b3983b6bdca869b86634e56e8f5b46c86446db659650ddf708"
+      "bundle_sha256": "b48d70e2f278853c5948efd5206bb66d3b3773db4bfdc7e7037f4769aa71050d"
     },
     {
       "name": "RouteSuggest",
@@ -85,7 +85,7 @@
       "mod_id": "RouteSuggest",
       "enabled": true,
       "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/RouteSuggest_v1.9.0.zip",
-      "bundle_sha256": "1e5dcdc52622c088adfa587a1303d175f80145ff0cc5d4ca6589fcb52b2896e7"
+      "bundle_sha256": "ba68f12dd830e31d636e0d8356090da4e55c63705aa4895d1b9919cb6b2cbf58"
     },
     {
       "name": "Show Player Hand Cards",
@@ -100,7 +100,7 @@
       "mod_id": "STS2-ShowPlayerHandCards",
       "enabled": true,
       "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Show_Player_Hand_Cards_v0.3.3.zip",
-      "bundle_sha256": "fad2d684c6be4dbcc37e7ebc076b96f13c3186063b320c3a8d996898dc3001e2"
+      "bundle_sha256": "c5f3c19c12e750f715215517964c0d38ab6515e305fbee0ec5ff58856dc1dfdd"
     },
     {
       "name": "SpeedX",
@@ -117,7 +117,7 @@
       "mod_id": "SpeedX",
       "enabled": true,
       "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/SpeedX_v0.10.5.zip",
-      "bundle_sha256": "6f9090fe807bf4fbb862d158881401591fee446d34051fb6cad2a9d5a8c0bc56"
+      "bundle_sha256": "6bf99458dcf39c5af6ad4137c03dc3630f98dd7ac47d6a4edde89630b1d44001"
     },
     {
       "name": "The Cursed",
@@ -133,7 +133,7 @@
       "mod_id": "TheCursedMod",
       "enabled": true,
       "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/The_Cursed_v0.2.7.zip",
-      "bundle_sha256": "ba49d6d24470173f24f21199cf7a38e023776e3b8646e717caa985cc707c90a7"
+      "bundle_sha256": "1ddbb63868dc7b070579d3486814862ec634b79e3e299ff93d98edcac5ec376c"
     },
     {
       "name": "Unified Save Path",
@@ -149,7 +149,7 @@
       "mod_id": "UnifiedSavePath",
       "enabled": true,
       "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0.zip",
-      "bundle_sha256": "433324fa7a8083e697852caaba2ac3dec1532b60a457e15643a7db7c695c42dd"
+      "bundle_sha256": "cdb96f5c1a0f8a1be958baedaa6d364b5411ec61f4d7a8b78d963aa15dbc07ca"
     },
     {
       "name": "Act 4: Final Ascent",
@@ -375,10 +375,12 @@
       ],
       "folder_name": "DamageMeter",
       "mod_id": "DamageMeter",
-      "enabled": false
+      "enabled": false,
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/______Skada_v1.14.4.zip",
+      "bundle_sha256": "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
     }
   ],
   "created_at": "2026-05-04T21:44:20.176667400Z",
-  "updated_at": "2026-05-14T07:14:39.247131600Z",
+  "updated_at": "2026-05-14T07:21:26.024433500Z",
   "public": false
 }
