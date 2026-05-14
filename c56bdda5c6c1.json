@@ -16,13 +16,13 @@
       "folder_name": "Act 4 Final Ascent-37-0-1-2f-1775405792",
       "mod_id": "Act4FinalAscent",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Act_4__Final_Ascent_v0.1.2e.zip"
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/Act_4__Final_Ascent_0.1.2e.zip"
     },
     {
       "name": "AutoPath",
-      "version": "1.3.4",
+      "version": "1.3.2",
       "source": "github:jadistanbelly/autopath-sts2",
-      "hash": "ce07b4f962cf2f1281ec9d612c05ab53e45c44c3219d329619e641d3d40996e5",
+      "hash": "92eaed637e189c281b79259af06cec8e9b41b0115a0c1e3372126905bbc67320",
       "files": [
         "AutoPath\\AutoPath.dll",
         "AutoPath\\AutoPath.json"
@@ -30,7 +30,7 @@
       "folder_name": "AutoPath",
       "mod_id": "AutoPath",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/AutoPath_v1.3.4.zip"
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/AutoPath_1.3.2.zip"
     },
     {
       "name": "BaseLib",
@@ -45,7 +45,7 @@
       "folder_name": "BaseLib",
       "mod_id": "BaseLib",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.2.zip"
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/BaseLib_3.1.2.zip"
     },
     {
       "name": "BetterSpire2",
@@ -74,7 +74,7 @@
       "folder_name": "BetterSpire2",
       "mod_id": "BetterSpire2",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.82.2.zip"
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/BetterSpire2_1.82.2.zip"
     },
     {
       "name": "Highlight Card Types in Potion Description",
@@ -89,7 +89,7 @@
       "folder_name": "HighlightPotionCards",
       "mod_id": "HighlightPotionCards",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Highlight_Card_Types_in_Potion_Description_v0.1.3.zip"
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/Highlight_Card_Types_in_Potion_Description_0.1.3.zip"
     },
     {
       "name": "ModConfig",
@@ -107,7 +107,7 @@
       "folder_name": "ModConfig",
       "mod_id": "ModConfig",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/ModConfig_v0.2.1.zip"
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/ModConfig_0.2.1.zip"
     },
     {
       "name": "ModSync",
@@ -122,7 +122,7 @@
       "folder_name": "ModSync",
       "mod_id": "ModSync",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/ModSync_v1.04.zip"
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/ModSync_1.04.zip"
     },
     {
       "name": "Multi-Hit Damage",
@@ -138,7 +138,7 @@
       "folder_name": "MultiHitDamage",
       "mod_id": "MultiHitDamage",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Multi-Hit_Damage_v1.4.zip"
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/Multi-Hit_Damage_1.4.zip"
     },
     {
       "name": "Multiplayer Potion View",
@@ -152,7 +152,7 @@
       "folder_name": "STS2-MultiPlayerPotionView-168-0-2-0-1774530567",
       "mod_id": "STS2-MultiPlayerPotionView",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Multiplayer_Potion_View_v0.2.0.zip"
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/Multiplayer_Potion_View_0.2.0.zip"
     },
     {
       "name": "Multiplayer Save Slots",
@@ -166,7 +166,7 @@
       "folder_name": "MultiplayerSaveSlots",
       "mod_id": "MultiplayerSaveSlots",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Multiplayer_Save_Slots_v0.2.0.zip"
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/Multiplayer_Save_Slots_0.2.0.zip"
     },
     {
       "name": "Potion Rarity Display",
@@ -182,7 +182,7 @@
       "folder_name": "PotionRarityDisplay",
       "mod_id": "PotionRarityDisplay",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Potion_Rarity_Display_v1.1.zip"
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/Potion_Rarity_Display_1.1.zip"
     },
     {
       "name": "Relic Rarity Display",
@@ -198,7 +198,7 @@
       "folder_name": "RelicRarityDisplay",
       "mod_id": "RelicRarityDisplay",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Relic_Rarity_Display_v1.1.zip"
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/Relic_Rarity_Display_1.1.zip"
     },
     {
       "name": "Relics Reminder",
@@ -214,7 +214,7 @@
       "folder_name": "RelicsReminder",
       "mod_id": "RelicsReminder",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Relics_Reminder_v0.1.0.zip"
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/Relics_Reminder_0.1.0.zip"
     },
     {
       "name": "RemoveMultiplayerPlayerLimit",
@@ -230,12 +230,12 @@
       "folder_name": "RemoveMultiplayerPlayerLimit",
       "mod_id": "RemoveMultiplayerPlayerLimit",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/RemoveMultiplayerPlayerLimit_v0.1.6-test.zip"
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/RemoveMultiplayerPlayerLimit_0.1.6-test.zip"
     },
     {
       "name": "RitsuLib",
       "version": "0.2.26",
-      "source": null,
+      "source": "github:BAKAOLC/STS2-RitsuLib",
       "hash": "bddd50b45ad1ddc32eb5e56ad3f5cf003f1b4f5f4e2bc52ed9c4003739a0f2e4",
       "files": [
         "STS2-RitsuLib\\lib\\0.103.2\\STS2-RitsuLib.dll",
@@ -251,7 +251,7 @@
       "folder_name": "STS2-RitsuLib",
       "mod_id": "STS2-RitsuLib",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.2.26.zip"
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/RitsuLib_0.2.26.zip"
     },
     {
       "name": "RouteSuggest",
@@ -267,7 +267,7 @@
       "folder_name": "RouteSuggest",
       "mod_id": "RouteSuggest",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/RouteSuggest_v1.9.0.zip"
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/RouteSuggest_1.9.0.zip"
     },
     {
       "name": "Show Player Hand Cards",
@@ -281,7 +281,7 @@
       "folder_name": "STS2-ShowPlayerHandCards",
       "mod_id": "STS2-ShowPlayerHandCards",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Show_Player_Hand_Cards_v0.5.2.zip"
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/Show_Player_Hand_Cards_0.5.2.zip"
     },
     {
       "name": "sts2AITeammate",
@@ -301,7 +301,7 @@
       "folder_name": "sts2AITeammate",
       "mod_id": "sts2AITeammate",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/sts2AITeammate_v1.0.2.zip"
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/sts2AITeammate_1.0.2.zip"
     },
     {
       "name": "Unified Save Path",
@@ -316,7 +316,7 @@
       "folder_name": "UnifiedSavePath",
       "mod_id": "UnifiedSavePath",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0.zip"
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/Unified_Save_Path_1.0.0.zip"
     },
     {
       "name": "皮皮极速: SpeedX",
@@ -331,7 +331,7 @@
       "folder_name": "SpeedX",
       "mod_id": "SpeedX",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/__SpeedX_v0.11.7.zip"
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/皮皮极速__SpeedX_0.11.7.zip"
     },
     {
       "name": "皮皮统计: Skada",
@@ -346,10 +346,10 @@
       "folder_name": "DamageMeter",
       "mod_id": "DamageMeter",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/__Skada_v1.14.4.zip"
+      "bundle_url": "https://raw.githubusercontent.com/MohamedSerhan/sts2mm-profiles/main/mods/皮皮统计__Skada_1.14.4.zip"
     }
   ],
   "created_at": "2026-05-04T21:07:21.303554Z",
-  "updated_at": "2026-05-14T04:50:07.392755500Z",
+  "updated_at": "2026-05-14T17:28:03.864519300Z",
   "public": true
 }
