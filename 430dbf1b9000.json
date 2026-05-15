@@ -1,0 +1,244 @@
+{
+  "name": "Test Profile A",
+  "game_version": null,
+  "created_by": "MohamedSerhan",
+  "mods": [
+    {
+      "name": "BaseLib",
+      "version": "v3.1.2",
+      "source": null,
+      "hash": "e8ec6dda30f0e7c67858e42d47c234f0ace2eea8a41b9857c857f9f87f93180c",
+      "files": [
+        "BaseLib\\BaseLib.dll",
+        "BaseLib\\BaseLib.json",
+        "BaseLib\\BaseLib.pck"
+      ],
+      "folder_name": "BaseLib",
+      "mod_id": "BaseLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.2.zip",
+      "bundle_sha256": "a5d2734a6ba000a1bc0e24a11c88e850a7e65177cbf1af1c04d1b07051114f86"
+    },
+    {
+      "name": "Multi-Hit Damage",
+      "version": "1.4",
+      "source": null,
+      "hash": "d583eb94a671ab3fa539fd256d7f031138aee4036fde42023c054545d55917fa",
+      "files": [
+        "MultiHitDamage\\mod_manifest.json",
+        "MultiHitDamage\\MultiHitDamage.dll",
+        "MultiHitDamage\\MultiHitDamage.pck",
+        "MultiHitDamage\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "MultiHitDamage",
+      "mod_id": "MultiHitDamage",
+      "enabled": true,
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Multi-Hit_Damage_v1.4.zip",
+      "bundle_sha256": "25b65fd3316545f42e13e7752442398524ffdeba3596e0799d99c67e797bec19"
+    },
+    {
+      "name": "Multiplayer Potion View",
+      "version": "0.2.0",
+      "source": "github:BAKAOLC/STS2-MultiPlayerPotionView",
+      "hash": "1638c91cbfe14b8da387a6866d86ab97449631768a275e3e31595f5ab6e48efc",
+      "files": [
+        "STS2-MultiPlayerPotionView-168-0-2-0-1774530567\\mod_manifest.json",
+        "STS2-MultiPlayerPotionView-168-0-2-0-1774530567\\STS2-MultiPlayerPotionView.dll"
+      ],
+      "folder_name": "STS2-MultiPlayerPotionView-168-0-2-0-1774530567",
+      "mod_id": "STS2-MultiPlayerPotionView",
+      "enabled": true,
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Multiplayer_Potion_View_v0.2.0.zip",
+      "bundle_sha256": "7c33e693b95c4ad6cf685b1d21033b819d32cf67e3c67cb97358d2cd38e3e326"
+    },
+    {
+      "name": "Multiplayer Save Slots",
+      "version": "0.2.2",
+      "source": "github:jadistanbelly/sts2-multiplayer-save-slots",
+      "hash": "789b4ff8a20fd749397c1566a8edcefb30e70de6ccf6069d643dc6c1a46af897",
+      "files": [
+        "MultiplayerSaveSlots\\MultiplayerSaveSlots.dll",
+        "MultiplayerSaveSlots\\MultiplayerSaveSlots.json"
+      ],
+      "folder_name": "MultiplayerSaveSlots",
+      "mod_id": "MultiplayerSaveSlots",
+      "enabled": true,
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Multiplayer_Save_Slots_v0.2.2.zip",
+      "bundle_sha256": "ffbc34d88ffdbe1db447ec8219d738a8c432e5c4bc8b75232377e731a5cba45c"
+    },
+    {
+      "name": "Potion Rarity Display",
+      "version": "1.1",
+      "source": null,
+      "hash": "ef3feaa5c169f5c587dbbea85f1385a20238d77d0e52d3096d2dbfdc2cb47fba",
+      "files": [
+        "PotionRarityDisplay\\mod_manifest.json",
+        "PotionRarityDisplay\\PotionRarityDisplay.dll",
+        "PotionRarityDisplay\\PotionRarityDisplay.pck",
+        "PotionRarityDisplay\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "PotionRarityDisplay",
+      "mod_id": "PotionRarityDisplay",
+      "enabled": true,
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Potion_Rarity_Display_v1.1.zip",
+      "bundle_sha256": "f0e9f4db7e64789bd3ebdf16f93a4f78ca206163c526cec9bb6642555f4c5c39"
+    },
+    {
+      "name": "Relic Rarity Display",
+      "version": "1.1",
+      "source": null,
+      "hash": "3e0f32fe90d01529d0a8293c21bc1910a38297bd079147196ff1c16bf6a722fc",
+      "files": [
+        "RelicRarityDisplay\\mod_manifest.json",
+        "RelicRarityDisplay\\RelicRarityDisplay.dll",
+        "RelicRarityDisplay\\RelicRarityDisplay.pck",
+        "RelicRarityDisplay\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "RelicRarityDisplay",
+      "mod_id": "RelicRarityDisplay",
+      "enabled": true,
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Relic_Rarity_Display_v1.1.zip",
+      "bundle_sha256": "92bf6418865adf6dbabe20e2cb1a3f437bd97d9784d62a57677b629c2960cd24"
+    },
+    {
+      "name": "Relics Reminder",
+      "version": "0.1.0",
+      "source": null,
+      "hash": "68d5224995ef4c6ae954aab918185188c0dd2d10f6a89ce85a08dfb37fd3d1e9",
+      "files": [
+        "RelicsReminder\\RelicsReminder.dll",
+        "RelicsReminder\\RelicsReminder.json",
+        "RelicsReminder\\RelicsReminder_init_marker_local.txt",
+        "RelicsReminder\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "RelicsReminder",
+      "mod_id": "RelicsReminder",
+      "enabled": true,
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Relics_Reminder_v0.1.0.zip",
+      "bundle_sha256": "42a8f04fc213e4de90cb9819d2019f0ee9f1d3a50eba2393f5050e6e1f4fe350"
+    },
+    {
+      "name": "RemoveMultiplayerPlayerLimit",
+      "version": "0.1.6-test",
+      "source": "github:Rain156/sts2-RMP-Mods",
+      "hash": "f799d6cc794e7bbf419b19536c7eded3616c2b4f284a1a28b65df7f4e9c525fd",
+      "files": [
+        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit\\config.ini",
+        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.dll",
+        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.json",
+        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.pck"
+      ],
+      "folder_name": "RemoveMultiplayerPlayerLimit",
+      "mod_id": "RemoveMultiplayerPlayerLimit",
+      "enabled": true,
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/RemoveMultiplayerPlayerLimit_v0.1.6-test.zip",
+      "bundle_sha256": "19cce41a8824e638f091d57786aaf9780bda0398f5c480f2a6e8bc058d27572a"
+    },
+    {
+      "name": "RitsuLib",
+      "version": "0.2.31",
+      "source": "github:BAKAOLC/STS2-RitsuLib",
+      "hash": "48196a56588b741f70ef09c832e3d0ac4d5840a0720a58e59f4544c22678676e",
+      "files": [
+        "STS2-RitsuLib\\lib\\0.103.2\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\lib\\0.103.2\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\lib\\0.103.2\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\lib\\0.104.0\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\lib\\0.104.0\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\lib\\0.104.0\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\lib\\0.105.1\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\lib\\0.105.1\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\lib\\0.105.1\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\mod_manifest.json",
+        "STS2-RitsuLib\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\STS2-RitsuLib.Loader.pdb"
+      ],
+      "folder_name": "STS2-RitsuLib",
+      "mod_id": "STS2-RitsuLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.2.31.zip",
+      "bundle_sha256": "02840a3346ed92b9aa95a63f605b20d34a30fb2ccf14ef27b7264326dee8e5db"
+    },
+    {
+      "name": "RouteSuggest",
+      "version": "1.11.0",
+      "source": "github:jiegec/STS2RouteSuggest",
+      "hash": "b1d2228b21e56de1848ae2534d09dbf53d96133055daf5ffacab84032f2867df",
+      "files": [
+        "RouteSuggest\\RouteSuggest.dll",
+        "RouteSuggest\\RouteSuggest.json",
+        "RouteSuggest\\RouteSuggest.pck"
+      ],
+      "folder_name": "RouteSuggest",
+      "mod_id": "RouteSuggest",
+      "enabled": true,
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/RouteSuggest_v1.11.0.zip",
+      "bundle_sha256": "7fad3c46874c7cdecb14b4508b09b25ac85ab4ecd9363a851102ef02d4b4b2cb"
+    },
+    {
+      "name": "Show Player Hand Cards",
+      "version": "0.5.2",
+      "source": "github:BAKAOLC/STS2-ShowPlayerHandCards",
+      "hash": "ef20b0bb975844d591fcb764007024f4c1c7412640c7e50167c0328c658f4c07",
+      "files": [
+        "STS2-ShowPlayerHandCards\\mod_manifest.json",
+        "STS2-ShowPlayerHandCards\\STS2-ShowPlayerHandCards.dll"
+      ],
+      "folder_name": "STS2-ShowPlayerHandCards",
+      "mod_id": "STS2-ShowPlayerHandCards",
+      "enabled": true,
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Show_Player_Hand_Cards_v0.5.2.zip",
+      "bundle_sha256": "7ec04225713f3818caee1ae86e99057aab91017b030e81b471c2c2d47226f29d"
+    },
+    {
+      "name": "Unified Save Path",
+      "version": "1.0.0",
+      "source": "github:luojiesi/SLS2Mods",
+      "hash": "08b7cbb36c7b48820e44c060d2dc6b6c49edbb945c7cb1e8f7a44866f7c650cc",
+      "files": [
+        "UnifiedSavePath\\UnifiedSavePath.dll",
+        "UnifiedSavePath\\UnifiedSavePath.json",
+        "UnifiedSavePath\\UnifiedSavePath.pck"
+      ],
+      "folder_name": "UnifiedSavePath",
+      "mod_id": "UnifiedSavePath",
+      "enabled": true,
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0.zip",
+      "bundle_sha256": "3f0ad34a59660c7951c3347b1a5ec17ec43bbb0b571e8abe1b15a71b547192df"
+    },
+    {
+      "name": "皮皮极速: SpeedX",
+      "version": "0.11.7",
+      "source": null,
+      "hash": "fe152522c9d030290c2db2eb3777ff3d7f835be5cb8c739df9c3e64e7da6384d",
+      "files": [
+        "SpeedX\\SpeedX.dll",
+        "SpeedX\\SpeedX.json",
+        "SpeedX\\SpeedX.pck"
+      ],
+      "folder_name": "SpeedX",
+      "mod_id": "SpeedX",
+      "enabled": true,
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/______SpeedX_v0.11.7.zip",
+      "bundle_sha256": "ffc4d616a0d33f27f73e738822968c8f8f79b11454675e47a0fc3b683cedb994"
+    },
+    {
+      "name": "AutoPath",
+      "version": "1.3.2",
+      "source": "github:jadistanbelly/autopath-sts2",
+      "hash": "92eaed637e189c281b79259af06cec8e9b41b0115a0c1e3372126905bbc67320",
+      "files": [
+        "AutoPath\\AutoPath.dll",
+        "AutoPath\\AutoPath.json"
+      ],
+      "folder_name": "AutoPath",
+      "mod_id": "AutoPath",
+      "enabled": false,
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/AutoPath_v1.3.2.zip",
+      "bundle_sha256": "ef9f54662d71a5dc082c7f996c1537c08ac12bff93dd0724863b4fd13c5b65d4"
+    }
+  ],
+  "created_at": "2026-05-15T15:44:21.552633600Z",
+  "updated_at": "2026-05-15T15:46:08.659107900Z",
+  "public": false
+}
