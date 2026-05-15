@@ -16,7 +16,7 @@
       "mod_id": "STS2-MultiPlayerPotionView",
       "enabled": true,
       "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Multiplayer_Potion_View_v0.3.1.zip",
-      "bundle_sha256": "9a50e781b0cfa85ed11af0ec4abd7b730a1af3bd3ae1465137c6f7cedd9c29b3"
+      "bundle_sha256": "1b0724fbbc161ee7d2100a26d304b20432269ae0b7080fde1554941a322d5b33"
     },
     {
       "name": "Multiplayer Save Slots",
@@ -31,7 +31,7 @@
       "mod_id": "MultiplayerSaveSlots",
       "enabled": true,
       "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Multiplayer_Save_Slots_v0.2.2.zip",
-      "bundle_sha256": "5056c55550deee8f5196d8bd2f740794bbb1114e7440d48018f79bf8894d517d"
+      "bundle_sha256": "503cfd706dde8199bf9416e4283e3b0a4a47f2c078c52ef97787ebadcbec9fe1"
     },
     {
       "name": "RemoveMultiplayerPlayerLimit",
@@ -47,7 +47,7 @@
       "mod_id": "RemoveMultiplayerPlayerLimit",
       "enabled": true,
       "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/RemoveMultiplayerPlayerLimit_v0.0.6-Beta.zip",
-      "bundle_sha256": "9d5b875d987d019a4741120b34650f32d5bbcb28d3020515a085bd3475393640"
+      "bundle_sha256": "81d71de35e07af4418d087d79c4b85c5192c1fd566919f57f71809aca5c7e9c8"
     },
     {
       "name": "RouteSuggest",
@@ -63,10 +63,10 @@
       "mod_id": "RouteSuggest",
       "enabled": true,
       "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/RouteSuggest_v1.11.0.zip",
-      "bundle_sha256": "1379eef7147ad5d87cb4eebbec0807084bc5de0aabdd1aec4f238d3ae7ad8f66"
+      "bundle_sha256": "43850c878db42af4328e724570b87f98bd56599d39d288c8e58a40c51d604206"
     }
   ],
   "created_at": "2026-05-14T23:46:35.069943100Z",
-  "updated_at": "2026-05-15T00:21:02.369010100Z",
+  "updated_at": "2026-05-15T00:21:24.208874800Z",
   "public": false
 }
