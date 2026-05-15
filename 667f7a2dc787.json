@@ -1,0 +1,72 @@
+{
+  "name": "Test Profile A",
+  "game_version": null,
+  "created_by": "MohamedSerhan",
+  "mods": [
+    {
+      "name": "Multiplayer Potion View",
+      "version": "0.3.1",
+      "source": "github:BAKAOLC/STS2-MultiPlayerPotionView",
+      "hash": "4902dcb3cbd38c96bbe2a6055083cbffd023361dd80b45b935df93036726fb7c",
+      "files": [
+        "STS2-MultiPlayerPotionView\\mod_manifest.json",
+        "STS2-MultiPlayerPotionView\\STS2-MultiPlayerPotionView.dll"
+      ],
+      "folder_name": "STS2-MultiPlayerPotionView",
+      "mod_id": "STS2-MultiPlayerPotionView",
+      "enabled": true,
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Multiplayer_Potion_View_v0.3.1.zip",
+      "bundle_sha256": "9a50e781b0cfa85ed11af0ec4abd7b730a1af3bd3ae1465137c6f7cedd9c29b3"
+    },
+    {
+      "name": "Multiplayer Save Slots",
+      "version": "0.2.2",
+      "source": "github:jadistanbelly/sts2-multiplayer-save-slots",
+      "hash": "789b4ff8a20fd749397c1566a8edcefb30e70de6ccf6069d643dc6c1a46af897",
+      "files": [
+        "MultiplayerSaveSlots\\MultiplayerSaveSlots.dll",
+        "MultiplayerSaveSlots\\MultiplayerSaveSlots.json"
+      ],
+      "folder_name": "MultiplayerSaveSlots",
+      "mod_id": "MultiplayerSaveSlots",
+      "enabled": true,
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Multiplayer_Save_Slots_v0.2.2.zip",
+      "bundle_sha256": "5056c55550deee8f5196d8bd2f740794bbb1114e7440d48018f79bf8894d517d"
+    },
+    {
+      "name": "RemoveMultiplayerPlayerLimit",
+      "version": "0.0.6-Beta",
+      "source": "github:Rain156/sts2-RMP-Mods",
+      "hash": "0e164c3bfd9b00f0de44f129fe302f91e98e4a6735abcd425f459f2705b21bb1",
+      "files": [
+        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.dll",
+        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.json",
+        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.pck"
+      ],
+      "folder_name": "RemoveMultiplayerPlayerLimit",
+      "mod_id": "RemoveMultiplayerPlayerLimit",
+      "enabled": true,
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/RemoveMultiplayerPlayerLimit_v0.0.6-Beta.zip",
+      "bundle_sha256": "9d5b875d987d019a4741120b34650f32d5bbcb28d3020515a085bd3475393640"
+    },
+    {
+      "name": "RouteSuggest",
+      "version": "1.11.0",
+      "source": "github:jiegec/STS2RouteSuggest",
+      "hash": "b1d2228b21e56de1848ae2534d09dbf53d96133055daf5ffacab84032f2867df",
+      "files": [
+        "RouteSuggest\\RouteSuggest.dll",
+        "RouteSuggest\\RouteSuggest.json",
+        "RouteSuggest\\RouteSuggest.pck"
+      ],
+      "folder_name": "RouteSuggest",
+      "mod_id": "RouteSuggest",
+      "enabled": true,
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/RouteSuggest_v1.11.0.zip",
+      "bundle_sha256": "1379eef7147ad5d87cb4eebbec0807084bc5de0aabdd1aec4f238d3ae7ad8f66"
+    }
+  ],
+  "created_at": "2026-05-14T23:46:35.069943100Z",
+  "updated_at": "2026-05-15T00:21:02.369010100Z",
+  "public": false
+}
