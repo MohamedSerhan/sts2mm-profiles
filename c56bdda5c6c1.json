@@ -17,7 +17,7 @@
       "mod_id": "Act4FinalAscent",
       "enabled": true,
       "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Act_4__Final_Ascent_v0.1.2e.zip",
-      "bundle_sha256": "f7b6fa350706e7ebc4f8ccfdda96fb6670bba354b940168b190014d1ae1ae1b1"
+      "bundle_sha256": "7df06d1e9ead3a1f1e91f86f8270738a16ccb615634fc825b786cf76684f9caa"
     },
     {
       "name": "AutoPath",
@@ -32,13 +32,13 @@
       "mod_id": "AutoPath",
       "enabled": true,
       "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/AutoPath_v1.3.2.zip",
-      "bundle_sha256": "b964256133a1143103fc0c76b27d43297dabe32f4476495d7eadac50b1891cf6"
+      "bundle_sha256": "8e3fbdca7d5740df4d1c0c08ab783dc082870b2463c0ada711435242ff7b1e32"
     },
     {
       "name": "BaseLib",
-      "version": "v3.1.2",
+      "version": "v3.1.3",
       "source": null,
-      "hash": "e8ec6dda30f0e7c67858e42d47c234f0ace2eea8a41b9857c857f9f87f93180c",
+      "hash": "9e950d70598706e8cc47d05a1f64bb2836b4c1bdd8d1729a1e278c268e148829",
       "files": [
         "BaseLib\\BaseLib.dll",
         "BaseLib\\BaseLib.json",
@@ -47,8 +47,8 @@
       "folder_name": "BaseLib",
       "mod_id": "BaseLib",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.2.zip",
-      "bundle_sha256": "ddc4d379bbc0dfd6a81fa1551c9207467552096620c485e1bab764a71aad490e"
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.3.zip",
+      "bundle_sha256": "1013618cb272eddf77404d5eff43940f8a1bbd15c51899716f0990cb75f2a29f"
     },
     {
       "name": "BetterSpire2",
@@ -78,7 +78,7 @@
       "mod_id": "BetterSpire2",
       "enabled": true,
       "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.82.2.zip",
-      "bundle_sha256": "5f2e629b5c60aedb2d863b7ce1c6ee431fdbba9016c3b049f8c03eaa8a2d7be6"
+      "bundle_sha256": "d20456641a59fbb71dc7ff07a8b1489e53366e47fdd0dde0d9a557ec1c084fd7"
     },
     {
       "name": "Highlight Card Types in Potion Description",
@@ -94,7 +94,7 @@
       "mod_id": "HighlightPotionCards",
       "enabled": true,
       "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Highlight_Card_Types_in_Potion_Description_v0.1.3.zip",
-      "bundle_sha256": "d459ec8324ad2fffcc9ba0469078c28cf83842741faff49821aa76dad8ac8d07"
+      "bundle_sha256": "cab124ace9cf619239855d6489d64b7f8237295ef0a65e181697a85545871440"
     },
     {
       "name": "ModConfig",
@@ -113,7 +113,7 @@
       "mod_id": "ModConfig",
       "enabled": true,
       "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/ModConfig_v0.2.1.zip",
-      "bundle_sha256": "a7bdcdcc68913890c6082bd8c47ed320adfe99fdaea25554cc5d37aac99ff3b8"
+      "bundle_sha256": "39dba71efaa6f1c9cc3b69c04befa09d2ee022d6a914bb74beb83d09dd17d5ff"
     },
     {
       "name": "ModSync",
@@ -129,7 +129,7 @@
       "mod_id": "ModSync",
       "enabled": true,
       "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/ModSync_v1.04.zip",
-      "bundle_sha256": "957bd7a8374c8220444ee2a3d59fb38b76607d8a6cc011fa0e64f7282fceffaf"
+      "bundle_sha256": "234092b969613efb73d5bf2be03f39d4ceefaa9197ee2fcbf46faa36e0a047d7"
     },
     {
       "name": "Multi-Hit Damage",
@@ -146,7 +146,7 @@
       "mod_id": "MultiHitDamage",
       "enabled": true,
       "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Multi-Hit_Damage_v1.4.zip",
-      "bundle_sha256": "53a798905e899679c1d70d7f2e54784f4c8ab570b6afa245cf794108c5cc447d"
+      "bundle_sha256": "01e89d3a857a856e777efa5068f0ac862ad2c6d55a7ee85659037965d8371379"
     },
     {
       "name": "Multiplayer Potion View",
@@ -161,7 +161,7 @@
       "mod_id": "STS2-MultiPlayerPotionView",
       "enabled": true,
       "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Multiplayer_Potion_View_v0.2.0.zip",
-      "bundle_sha256": "ac5aedc66cc7ef7c7fc174540d70c667351811de73bdccc2c9a1464a42945a02"
+      "bundle_sha256": "ccbe54cc2c60b4980906acb02c018f6c650bc113a4cae3f40aa1246cd221a61b"
     },
     {
       "name": "Multiplayer Save Slots",
@@ -176,7 +176,7 @@
       "mod_id": "MultiplayerSaveSlots",
       "enabled": true,
       "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Multiplayer_Save_Slots_v0.2.2.zip",
-      "bundle_sha256": "b43180ec5ab184191a5d3798768f824bc2f4913a198d0840ac1c2f4ef9ed6f83"
+      "bundle_sha256": "3a51a23bb91d1e16b6143bbdef374877714060eddafb4f9146b682f13c268fce"
     },
     {
       "name": "Potion Rarity Display",
@@ -193,7 +193,7 @@
       "mod_id": "PotionRarityDisplay",
       "enabled": true,
       "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Potion_Rarity_Display_v1.1.zip",
-      "bundle_sha256": "01fe8692b74ed54d44589ffd6184c960b77be02e4df8fba9fb531c6dd0712738"
+      "bundle_sha256": "94ca6b1ceb135ff674eeadb9fdc933b1e3413dacb7e66d712e852f6f18306818"
     },
     {
       "name": "Relic Rarity Display",
@@ -210,7 +210,7 @@
       "mod_id": "RelicRarityDisplay",
       "enabled": true,
       "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Relic_Rarity_Display_v1.1.zip",
-      "bundle_sha256": "e5e175ab4331d57124ec890c0144545cad7949a61a9c2f7e8ae53cc6d95ef6f4"
+      "bundle_sha256": "db87096e290a840acfa84492380ae922a1fafda616b30d56b85d15250db9a6a3"
     },
     {
       "name": "Relics Reminder",
@@ -227,24 +227,24 @@
       "mod_id": "RelicsReminder",
       "enabled": true,
       "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Relics_Reminder_v0.1.0.zip",
-      "bundle_sha256": "bac1a462ac26a2ed97b2461b8fb9fd1b9dbd9c0a50d40724996537d1c5f94084"
+      "bundle_sha256": "60075fdc4adcc359db06939a917d2f4b9a90d39ec1aa9b408680fac2d0313af4"
     },
     {
       "name": "RemoveMultiplayerPlayerLimit",
-      "version": "0.1.6-test",
+      "version": "0.1.7",
       "source": "github:Rain156/sts2-RMP-Mods",
-      "hash": "f799d6cc794e7bbf419b19536c7eded3616c2b4f284a1a28b65df7f4e9c525fd",
+      "hash": "b91ac9b59956d06e864a94c2fd04217eb5d8f4471688ebfe4069148e0f55c1fc",
       "files": [
-        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit\\config.ini",
-        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.dll",
-        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.json",
-        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.pck"
+        "RemoveMultiplayerPlayerLimit\\config.ini",
+        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.dll",
+        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.json",
+        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.pck"
       ],
       "folder_name": "RemoveMultiplayerPlayerLimit",
       "mod_id": "RemoveMultiplayerPlayerLimit",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/RemoveMultiplayerPlayerLimit_v0.1.6-test.zip",
-      "bundle_sha256": "e2e9eb7d7016527b97bfdd1c79e10abf3f8ee6338d7756427e17da00ad3ac62f"
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/RemoveMultiplayerPlayerLimit_v0.1.7.zip",
+      "bundle_sha256": "e8ad5ecfc07bbb72d6e4395c18bea49bed7c913d7d005a592b33515779692e6a"
     },
     {
       "name": "RitsuLib",
@@ -269,7 +269,7 @@
       "mod_id": "STS2-RitsuLib",
       "enabled": true,
       "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.2.31.zip",
-      "bundle_sha256": "a3615776d9c5047bda1cd449bd6984b15bb27f99c1f61035d21b8eadea1ee44b"
+      "bundle_sha256": "7edcf44d322a3d21748d119a05057af4b9ee02d74846249aebd4e5aec38561e4"
     },
     {
       "name": "RouteSuggest",
@@ -286,7 +286,7 @@
       "mod_id": "RouteSuggest",
       "enabled": true,
       "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/RouteSuggest_v1.9.0.zip",
-      "bundle_sha256": "22e53801bfb1aae0909b3e78774916aba126d9ae2c6977697199d3da54261012"
+      "bundle_sha256": "d99051125a3f2c3eb43812e0f052486e9dbc6392529dcb2ebbceb1123a1d730d"
     },
     {
       "name": "Show Player Hand Cards",
@@ -301,7 +301,7 @@
       "mod_id": "STS2-ShowPlayerHandCards",
       "enabled": true,
       "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Show_Player_Hand_Cards_v0.5.2.zip",
-      "bundle_sha256": "df1303f4ab03a8357cbfe3e2233831f888c61916a39809b4839cd949739186a2"
+      "bundle_sha256": "0d9346132402ed7c90f4bda7d9850522636e471bcfd1ad050dc9d28cad53ecf3"
     },
     {
       "name": "sts2AITeammate",
@@ -322,7 +322,7 @@
       "mod_id": "sts2AITeammate",
       "enabled": true,
       "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/sts2AITeammate_v1.0.2.zip",
-      "bundle_sha256": "dc3542ef12a62ddaea6c56c6b3247fe22adbd1cc068504c317b1ed96cb4e2fcc"
+      "bundle_sha256": "dec94535d351810b799bef2915b9d2129eb40d73f74d07580b03383b6b274d4c"
     },
     {
       "name": "Unified Save Path",
@@ -338,7 +338,7 @@
       "mod_id": "UnifiedSavePath",
       "enabled": true,
       "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0.zip",
-      "bundle_sha256": "4cb7adb26e5204b5073fd9d237e612278f0ec7d8ed64798756812f3a0d04796f"
+      "bundle_sha256": "620657e037e2f5863c14aa825371a76d9a0005e5a8b172dcb370a3a504307d27"
     },
     {
       "name": "皮皮极速: SpeedX",
@@ -354,7 +354,7 @@
       "mod_id": "SpeedX",
       "enabled": true,
       "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/______SpeedX_v0.11.7.zip",
-      "bundle_sha256": "313eb4c8f24092f300b66d3ee473e8d9d00235c66b5bf93120ba850c9ee7b36a"
+      "bundle_sha256": "a054854b73722e55ab703bfc6301359057b52a6b74c4cc5167ceda484be01eb9"
     },
     {
       "name": "皮皮统计: Skada",
@@ -370,10 +370,10 @@
       "mod_id": "DamageMeter",
       "enabled": true,
       "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/______Skada_v1.14.4.zip",
-      "bundle_sha256": "6c5d17692976639581c7bc538ee567011d2af193c70b6250c198c63bbeae48a6"
+      "bundle_sha256": "ef031c6d2f62fe5272e194cea681fbdc39cfd33de37a56c209721702f8cae411"
     }
   ],
   "created_at": "2026-05-15T18:25:34.277242200Z",
-  "updated_at": "2026-05-15T18:25:34.277242200Z",
+  "updated_at": "2026-05-15T18:28:11.694901200Z",
   "public": true
 }
