@@ -5,7 +5,7 @@
   "mods": [
     {
       "name": "BaseLib",
-      "version": "v3.1.2",
+      "version": "v3.1.8",
       "source": null,
       "hash": "e8ec6dda30f0e7c67858e42d47c234f0ace2eea8a41b9857c857f9f87f93180c",
       "files": [
@@ -16,8 +16,8 @@
       "folder_name": "BaseLib",
       "mod_id": "BaseLib",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.2_05bb72b8.zip",
-      "bundle_sha256": "05bb72b86224744c97c7a304cef99508e82be6c28816ed86e6f581836eefa8fa"
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.8_f0fb8f0c.zip",
+      "bundle_sha256": "f0fb8f0cb4248cfd67852e27d9e2610be4610a70bf34c844b325a418a620955b"
     },
     {
       "name": "RegentCardsAnimeRework",
@@ -32,8 +32,8 @@
       "folder_name": "RegentCardsAnimeRework",
       "mod_id": "RegentCardsAnimeRework",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/RegentCardsAnimeRework_v0.6_fd2c3efe.zip",
-      "bundle_sha256": "fd2c3efe08616243bb7613f3aadc0a6dce80105c509fe275da6db229f108f748"
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/RegentCardsAnimeRework_v0.6_e8591e90.zip",
+      "bundle_sha256": "e8591e9068dc4f037074689b9e48c0ea29147984882938cc3cae3836eb86aae6"
     },
     {
       "name": "SlayTheStats",
@@ -48,8 +48,8 @@
       "folder_name": "SlayTheStats",
       "mod_id": "SlayTheStats",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/SlayTheStats_v1.0.5_196dadbf.zip",
-      "bundle_sha256": "196dadbf7cda382ccc813f565d459bccd22c618f33b312b60487616da32f93aa"
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/SlayTheStats_v1.0.5_099b84cb.zip",
+      "bundle_sha256": "099b84cbf70dcce3137f1ea445f6e4f6028e3113d4e4d382c5355c9fbe148a6a"
     },
     {
       "name": "Stats the Spire",
@@ -70,26 +70,72 @@
       "folder_name": "stats_the_spire",
       "mod_id": "sts2_community_stats",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Stats_the_Spire_v0.16.2_ac9ba3b2.zip",
-      "bundle_sha256": "ac9ba3b29b5c2fbc704ac3afe4c60ac10c679978440cd5e2017099de8364395d"
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Stats_the_Spire_v0.16.2_5ca187b3.zip",
+      "bundle_sha256": "5ca187b3392826c56b062c25e3907779f412b87729ca6e94de1d92f74ac72e28"
     },
     {
-      "name": "StS2 Card Advisor",
-      "version": "v1.15.4",
+      "name": "AutoPath",
+      "version": "1.3.2",
       "source": null,
-      "hash": "b15900d46543136d712f73310803d278221baf3317b3ebeede575ca205129f81",
+      "hash": "92eaed637e189c281b79259af06cec8e9b41b0115a0c1e3372126905bbc67320",
       "files": [
-        "Sts2CardAdvisor\\Sts2CardAdvisor.dll",
-        "Sts2CardAdvisor\\Sts2CardAdvisor.json"
+        "AutoPath\\AutoPath.dll",
+        "AutoPath\\AutoPath.json"
       ],
-      "folder_name": "Sts2CardAdvisor",
-      "mod_id": "Sts2CardAdvisor",
+      "folder_name": "AutoPath",
+      "mod_id": "AutoPath",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/StS2_Card_Advisor_v1.15.4_c5f91b36.zip",
-      "bundle_sha256": "c5f91b36690c2c7bfdd95383b72b9cd684967838b8144d67983ab9c8586d805d"
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/AutoPath_v1.3.2_d1ccc9ab.zip",
+      "bundle_sha256": "d1ccc9abbf74d441a7fb0f76cd1cf52256c823171e4acbc1bed2db9a5f3d9c15"
+    },
+    {
+      "name": "Act 4: Final Ascent",
+      "version": "0.1.2e",
+      "source": null,
+      "hash": "8b47f856cf3ccfc31a2675c229db81d68481e05b4c3b2242cdb81054896e853d",
+      "files": [
+        "Act 4 Final Ascent-37-0-1-2f-1775405792\\Act4FinalAscent.dll",
+        "Act 4 Final Ascent-37-0-1-2f-1775405792\\Act4FinalAscent.json",
+        "Act 4 Final Ascent-37-0-1-2f-1775405792\\Act4FinalAscent.pck"
+      ],
+      "folder_name": "Act 4 Final Ascent-37-0-1-2f-1775405792",
+      "mod_id": "Act4FinalAscent",
+      "enabled": true,
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Act_4__Final_Ascent_v0.1.2e_b7b58917.zip",
+      "bundle_sha256": "b7b58917e448800895a818127d5773397f6b83e68665d8218a5d544ae029ac04"
+    },
+    {
+      "name": "BetterSpire2 Lite",
+      "version": "v1.82.3",
+      "source": null,
+      "hash": "ecc5b0a1a69304913909c513f9231888fd12be0cf266c6ca1eda8f1d1ac98e58",
+      "files": [
+        "BetterSpire2Lite\\BetterSpire2Lite.dll",
+        "BetterSpire2Lite\\BetterSpire2Lite.json",
+        "BetterSpire2Lite\\BetterSpire2_localization\\deu.lang",
+        "BetterSpire2Lite\\BetterSpire2_localization\\eng.lang",
+        "BetterSpire2Lite\\BetterSpire2_localization\\esp.lang",
+        "BetterSpire2Lite\\BetterSpire2_localization\\fra.lang",
+        "BetterSpire2Lite\\BetterSpire2_localization\\ita.lang",
+        "BetterSpire2Lite\\BetterSpire2_localization\\jpn.lang",
+        "BetterSpire2Lite\\BetterSpire2_localization\\kor.lang",
+        "BetterSpire2Lite\\BetterSpire2_localization\\pol.lang",
+        "BetterSpire2Lite\\BetterSpire2_localization\\ptb.lang",
+        "BetterSpire2Lite\\BetterSpire2_localization\\README.txt",
+        "BetterSpire2Lite\\BetterSpire2_localization\\rus.lang",
+        "BetterSpire2Lite\\BetterSpire2_localization\\spa.lang",
+        "BetterSpire2Lite\\BetterSpire2_localization\\tha.lang",
+        "BetterSpire2Lite\\BetterSpire2_localization\\tur.lang",
+        "BetterSpire2Lite\\BetterSpire2_localization\\zhs.lang"
+      ],
+      "folder_name": "BetterSpire2Lite",
+      "mod_id": "BetterSpire2Lite",
+      "enabled": true,
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/BetterSpire2_Lite_v1.82.3_362c72f4.zip",
+      "bundle_sha256": "362c72f44716add66b3f891900df914e8dc6205999270e7ceb1134a105833a58"
     }
   ],
   "created_at": "2026-05-29T03:14:02.669923800Z",
-  "updated_at": "2026-05-29T03:14:02.812340200Z",
+  "updated_at": "2026-05-29T20:47:42.194304300Z",
   "public": false
 }
