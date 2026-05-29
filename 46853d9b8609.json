@@ -1,0 +1,95 @@
+{
+  "name": "Solo Pack",
+  "game_version": null,
+  "created_by": "MohamedSerhan",
+  "mods": [
+    {
+      "name": "BaseLib",
+      "version": "v3.1.2",
+      "source": null,
+      "hash": "e8ec6dda30f0e7c67858e42d47c234f0ace2eea8a41b9857c857f9f87f93180c",
+      "files": [
+        "BaseLib\\BaseLib.dll",
+        "BaseLib\\BaseLib.json",
+        "BaseLib\\BaseLib.pck"
+      ],
+      "folder_name": "BaseLib",
+      "mod_id": "BaseLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.2_05bb72b8.zip",
+      "bundle_sha256": "05bb72b86224744c97c7a304cef99508e82be6c28816ed86e6f581836eefa8fa"
+    },
+    {
+      "name": "RegentCardsAnimeRework",
+      "version": "v0.6",
+      "source": "github:DoublePigeon/RegentCardsAnimeRework",
+      "hash": "eb9f09774d4c069a4c0c9dced8e41a263c31c42a791515efde21f25779938b29",
+      "files": [
+        "RegentCardsAnimeRework\\RegentCardsAnimeRework.dll",
+        "RegentCardsAnimeRework\\RegentCardsAnimeRework.json",
+        "RegentCardsAnimeRework\\RegentCardsAnimeRework.pck"
+      ],
+      "folder_name": "RegentCardsAnimeRework",
+      "mod_id": "RegentCardsAnimeRework",
+      "enabled": true,
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/RegentCardsAnimeRework_v0.6_fd2c3efe.zip",
+      "bundle_sha256": "fd2c3efe08616243bb7613f3aadc0a6dce80105c509fe275da6db229f108f748"
+    },
+    {
+      "name": "SlayTheStats",
+      "version": "v1.0.5",
+      "source": null,
+      "hash": "f1cebb715386001ebefb9f5bd6486375179f69f185a46cd99a170178b04e7c70",
+      "files": [
+        "SlayTheStats\\SlayTheStats.dll",
+        "SlayTheStats\\SlayTheStats.json",
+        "SlayTheStats\\SlayTheStats.pck"
+      ],
+      "folder_name": "SlayTheStats",
+      "mod_id": "SlayTheStats",
+      "enabled": true,
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/SlayTheStats_v1.0.5_196dadbf.zip",
+      "bundle_sha256": "196dadbf7cda382ccc813f565d459bccd22c618f33b312b60487616da32f93aa"
+    },
+    {
+      "name": "Stats the Spire",
+      "version": "0.16.2",
+      "source": null,
+      "hash": "962a23f02f84621ceeab30dc4457a1694effe84a7ae33f94bdc4551febc5af1f",
+      "files": [
+        "stats_the_spire\\manifest.json",
+        "stats_the_spire\\README_EN.md",
+        "stats_the_spire\\README_ZH.md",
+        "stats_the_spire\\settings.cfg",
+        "stats_the_spire\\sts2_community_stats.dll",
+        "stats_the_spire\\test\\mock_server.py",
+        "stats_the_spire\\test\\test_data.json",
+        "stats_the_spire\\test\\uploaded_runs.json",
+        "stats_the_spire\\test\\VERIFICATION_CHECKLIST.md"
+      ],
+      "folder_name": "stats_the_spire",
+      "mod_id": "sts2_community_stats",
+      "enabled": true,
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Stats_the_Spire_v0.16.2_ac9ba3b2.zip",
+      "bundle_sha256": "ac9ba3b29b5c2fbc704ac3afe4c60ac10c679978440cd5e2017099de8364395d"
+    },
+    {
+      "name": "StS2 Card Advisor",
+      "version": "v1.15.4",
+      "source": null,
+      "hash": "b15900d46543136d712f73310803d278221baf3317b3ebeede575ca205129f81",
+      "files": [
+        "Sts2CardAdvisor\\Sts2CardAdvisor.dll",
+        "Sts2CardAdvisor\\Sts2CardAdvisor.json"
+      ],
+      "folder_name": "Sts2CardAdvisor",
+      "mod_id": "Sts2CardAdvisor",
+      "enabled": true,
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/StS2_Card_Advisor_v1.15.4_c5f91b36.zip",
+      "bundle_sha256": "c5f91b36690c2c7bfdd95383b72b9cd684967838b8144d67983ab9c8586d805d"
+    }
+  ],
+  "created_at": "2026-05-29T03:14:02.669923800Z",
+  "updated_at": "2026-05-29T03:14:02.812340200Z",
+  "public": false
+}
