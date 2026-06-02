@@ -6,7 +6,7 @@
     {
       "name": "BaseLib",
       "version": "v3.1.8",
-      "source": null,
+      "source": "github:Alchyr/BaseLib-StS2",
       "hash": "e8ec6dda30f0e7c67858e42d47c234f0ace2eea8a41b9857c857f9f87f93180c",
       "files": [
         "BaseLib\\BaseLib.dll",
@@ -16,67 +16,13 @@
       "folder_name": "BaseLib",
       "mod_id": "BaseLib",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.8_f0fb8f0c.zip",
-      "bundle_sha256": "f0fb8f0cb4248cfd67852e27d9e2610be4610a70bf34c844b325a418a620955b"
-    },
-    {
-      "name": "RegentCardsAnimeRework",
-      "version": "v0.6",
-      "source": "github:DoublePigeon/RegentCardsAnimeRework",
-      "hash": "eb9f09774d4c069a4c0c9dced8e41a263c31c42a791515efde21f25779938b29",
-      "files": [
-        "RegentCardsAnimeRework\\RegentCardsAnimeRework.dll",
-        "RegentCardsAnimeRework\\RegentCardsAnimeRework.json",
-        "RegentCardsAnimeRework\\RegentCardsAnimeRework.pck"
-      ],
-      "folder_name": "RegentCardsAnimeRework",
-      "mod_id": "RegentCardsAnimeRework",
-      "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/RegentCardsAnimeRework_v0.6_e8591e90.zip",
-      "bundle_sha256": "e8591e9068dc4f037074689b9e48c0ea29147984882938cc3cae3836eb86aae6"
-    },
-    {
-      "name": "SlayTheStats",
-      "version": "v1.0.5",
-      "source": null,
-      "hash": "f1cebb715386001ebefb9f5bd6486375179f69f185a46cd99a170178b04e7c70",
-      "files": [
-        "SlayTheStats\\SlayTheStats.dll",
-        "SlayTheStats\\SlayTheStats.json",
-        "SlayTheStats\\SlayTheStats.pck"
-      ],
-      "folder_name": "SlayTheStats",
-      "mod_id": "SlayTheStats",
-      "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/SlayTheStats_v1.0.5_099b84cb.zip",
-      "bundle_sha256": "099b84cbf70dcce3137f1ea445f6e4f6028e3113d4e4d382c5355c9fbe148a6a"
-    },
-    {
-      "name": "Stats the Spire",
-      "version": "0.16.2",
-      "source": null,
-      "hash": "962a23f02f84621ceeab30dc4457a1694effe84a7ae33f94bdc4551febc5af1f",
-      "files": [
-        "stats_the_spire\\manifest.json",
-        "stats_the_spire\\README_EN.md",
-        "stats_the_spire\\README_ZH.md",
-        "stats_the_spire\\settings.cfg",
-        "stats_the_spire\\sts2_community_stats.dll",
-        "stats_the_spire\\test\\mock_server.py",
-        "stats_the_spire\\test\\test_data.json",
-        "stats_the_spire\\test\\uploaded_runs.json",
-        "stats_the_spire\\test\\VERIFICATION_CHECKLIST.md"
-      ],
-      "folder_name": "stats_the_spire",
-      "mod_id": "sts2_community_stats",
-      "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Stats_the_Spire_v0.16.2_5ca187b3.zip",
-      "bundle_sha256": "5ca187b3392826c56b062c25e3907779f412b87729ca6e94de1d92f74ac72e28"
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.8_f738d4ba.zip",
+      "bundle_sha256": "f738d4bafea3c7bfa56fa3700a897b5e962165eaa4f438d2245b8a1cfbb21fd0"
     },
     {
       "name": "AutoPath",
       "version": "1.3.2",
-      "source": null,
+      "source": "github:jadistanbelly/autopath-sts2",
       "hash": "92eaed637e189c281b79259af06cec8e9b41b0115a0c1e3372126905bbc67320",
       "files": [
         "AutoPath\\AutoPath.dll",
@@ -85,13 +31,13 @@
       "folder_name": "AutoPath",
       "mod_id": "AutoPath",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/AutoPath_v1.3.2_d1ccc9ab.zip",
-      "bundle_sha256": "d1ccc9abbf74d441a7fb0f76cd1cf52256c823171e4acbc1bed2db9a5f3d9c15"
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/AutoPath_v1.3.2_9f8dcf97.zip",
+      "bundle_sha256": "9f8dcf97e4a7a825a8854d743d383dd900e96afbd8047432801d7d5d9ccf7e0d"
     },
     {
       "name": "Act 4: Final Ascent",
       "version": "0.1.2e",
-      "source": null,
+      "source": "github:kphxgames/Act4FinalAscent",
       "hash": "8b47f856cf3ccfc31a2675c229db81d68481e05b4c3b2242cdb81054896e853d",
       "files": [
         "Act 4 Final Ascent-37-0-1-2f-1775405792\\Act4FinalAscent.dll",
@@ -101,13 +47,13 @@
       "folder_name": "Act 4 Final Ascent-37-0-1-2f-1775405792",
       "mod_id": "Act4FinalAscent",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Act_4__Final_Ascent_v0.1.2e_b7b58917.zip",
-      "bundle_sha256": "b7b58917e448800895a818127d5773397f6b83e68665d8218a5d544ae029ac04"
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Act_4__Final_Ascent_v0.1.2e_c11e236b.zip",
+      "bundle_sha256": "c11e236b185cdd85025f3c5d12e64299f49b5071985a4384353871e115abcd06"
     },
     {
       "name": "BetterSpire2 Lite",
       "version": "v1.82.3",
-      "source": null,
+      "source": "nexus:slaythespire2/mods/2",
       "hash": "ecc5b0a1a69304913909c513f9231888fd12be0cf266c6ca1eda8f1d1ac98e58",
       "files": [
         "BetterSpire2Lite\\BetterSpire2Lite.dll",
@@ -131,8 +77,8 @@
       "folder_name": "BetterSpire2Lite",
       "mod_id": "BetterSpire2Lite",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/BetterSpire2_Lite_v1.82.3_362c72f4.zip",
-      "bundle_sha256": "362c72f44716add66b3f891900df914e8dc6205999270e7ceb1134a105833a58"
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/BetterSpire2_Lite_v1.82.3_425ba373.zip",
+      "bundle_sha256": "425ba37350cd764f138db2d619fcd870aee4f0f02f134aefb6b0896f178b8606"
     }
   ],
   "created_at": "2026-05-29T03:14:02.669923800Z",
