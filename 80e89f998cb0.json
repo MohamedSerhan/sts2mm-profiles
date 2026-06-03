@@ -1,12 +1,12 @@
 {
-  "name": "mods (copy)",
+  "name": "modzz da tez",
   "game_version": null,
   "created_by": "MohamedSerhan",
   "mods": [
     {
       "name": "AutoPath",
       "version": "1.3.4",
-      "source": null,
+      "source": "github:jadistanbelly/autopath-sts2",
       "hash": "ce07b4f962cf2f1281ec9d612c05ab53e45c44c3219d329619e641d3d40996e5",
       "files": [
         "AutoPath\\AutoPath.dll",
@@ -15,27 +15,8 @@
       "folder_name": "AutoPath",
       "mod_id": "AutoPath",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/AutoPath_v1.3.4_36ff0c63.zip",
-      "bundle_sha256": "36ff0c6354022e4ce2ff55f6e89159f982083395e1d37f8663070effb6412ecd"
-    },
-    {
-      "name": "ModConfig",
-      "version": "0.2.1",
-      "source": "github:xhyrzldf/ModConfig-STS2",
-      "hash": "92e31f025ba9b8e29f18e4228a6dd4f6d690770fb500039394a7d8994073348c",
-      "files": [
-        "ModConfig\\ModConfig.dll",
-        "ModConfig\\ModConfig.dll.bak.9210",
-        "ModConfig\\ModConfig.dll.bak.9278",
-        "ModConfig\\ModConfig.json",
-        "ModConfig\\ModConfig.pck",
-        "ModConfig\\__folder_managed_by_vortex"
-      ],
-      "folder_name": "ModConfig",
-      "mod_id": "ModConfig",
-      "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/ModConfig_v0.2.1_0bf91c11.zip",
-      "bundle_sha256": "0bf91c119e6f04a52ad21baf81f31c0777caa33485e63c632019d9e2d9107a67"
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/AutoPath_v1.3.4_f0f1babe.zip",
+      "bundle_sha256": "f0f1babe3afa4d82e22dbc239011258cfbfcef0300676715d3fc8c11bd1eec0d"
     },
     {
       "name": "BetterSpire2",
@@ -64,8 +45,8 @@
       "folder_name": "BetterSpire2",
       "mod_id": "BetterSpire2",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.82.3_773eebb6.zip",
-      "bundle_sha256": "773eebb647ad543bd8de8e64173460081fbabd51df90ff8407afcd3524836eb2"
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.82.3_f5ca1a40.zip",
+      "bundle_sha256": "f5ca1a407f3518a55a20283fc02aac139135810526c3775c4c54c2c2147aa873"
     },
     {
       "name": "Unified Save Path",
@@ -80,11 +61,26 @@
       "folder_name": "UnifiedSavePath",
       "mod_id": "UnifiedSavePath",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_46089831.zip",
-      "bundle_sha256": "460898318178117c467e31298152d6595868ac6633ec07487f7f250ba706b3b8"
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_465acb5d.zip",
+      "bundle_sha256": "465acb5d9ecfc922197f502f92b99902ccd78bbd89a24f73299a23787970333f"
+    },
+    {
+      "name": "DeckStats",
+      "version": "v1.0.0",
+      "source": "github:Wall-Dough/DeckStats",
+      "hash": "ffec30003dad0191a7a2975a0b0cdb5399733baf8b9b98ed6d299ef2b1817a7d",
+      "files": [
+        "DeckStats\\DeckStats.dll",
+        "DeckStats\\DeckStats.json"
+      ],
+      "folder_name": "DeckStats",
+      "mod_id": "DeckStats",
+      "enabled": true,
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/DeckStats_v1.0.0_66c6125e.zip",
+      "bundle_sha256": "66c6125eace13b6087981c93dced17b51ba1bd47fff4fce72c4fe926e7edd986"
     }
   ],
   "created_at": "2026-05-15T17:49:15.688996800Z",
-  "updated_at": "2026-06-01T18:24:50.954862400Z",
+  "updated_at": "2026-06-03T05:03:05.714597200Z",
   "public": false
 }
