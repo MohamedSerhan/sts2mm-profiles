@@ -49,9 +49,24 @@
       "enabled": true,
       "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Act_4__Final_Ascent_v0.1.2e_0627bce9.zip",
       "bundle_sha256": "0627bce966f80a5f6476229b93b696ecf7ea43eee3734b940ff320cc30830062"
+    },
+    {
+      "name": "Multiplayer Save Slots",
+      "version": "0.2.2",
+      "source": "github:jadistanbelly/sts2-multiplayer-save-slots",
+      "hash": "789b4ff8a20fd749397c1566a8edcefb30e70de6ccf6069d643dc6c1a46af897",
+      "files": [
+        "MultiplayerSaveSlots\\MultiplayerSaveSlots.dll",
+        "MultiplayerSaveSlots\\MultiplayerSaveSlots.json"
+      ],
+      "folder_name": "MultiplayerSaveSlots",
+      "mod_id": "MultiplayerSaveSlots",
+      "enabled": true,
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Multiplayer_Save_Slots_v0.2.2_d1100c66.zip",
+      "bundle_sha256": "d1100c667620128f134d37adb9b46895724c9caeb249ff7b3cafbb655507463b"
     }
   ],
   "created_at": "2026-05-29T03:14:02.669923800Z",
-  "updated_at": "2026-06-12T21:03:56.542297100Z",
+  "updated_at": "2026-06-12T21:05:58.718399500Z",
   "public": false
 }
