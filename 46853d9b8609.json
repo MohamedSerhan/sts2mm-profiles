@@ -128,9 +128,24 @@
       "enabled": true,
       "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/BetterSpire2_Lite_v1.82.3_0ad93927.zip",
       "bundle_sha256": "0ad939274188bc47561c2879d2e329afc8f10b661b45f28212f1864ee27f9465"
+    },
+    {
+      "name": "Flagellant",
+      "version": "unknown",
+      "source": null,
+      "hash": "b39e225e52e328202354ae1f6993d8c2504b775f75ba90b364dd606fdb8335de",
+      "files": [
+        "Flagellant/Flagellant.dll",
+        "Flagellant/Flagellant.json",
+        "Flagellant/Flagellant.pck"
+      ],
+      "folder_name": "Flagellant",
+      "enabled": true,
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Flagellant_vunknown_6796e2f4.zip",
+      "bundle_sha256": "6796e2f47bb5c0deca3dba294bef1671be0fa630a8720fd7f2bb51f641eacabb"
     }
   ],
   "created_at": "2026-05-29T03:14:02.669923800Z",
-  "updated_at": "2026-06-12T21:08:13.301329800Z",
+  "updated_at": "2026-06-12T21:19:33.190094400Z",
   "public": false
 }
