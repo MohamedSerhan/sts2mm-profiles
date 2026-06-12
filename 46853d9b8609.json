@@ -49,39 +49,9 @@
       "enabled": true,
       "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Act_4__Final_Ascent_v0.1.2e_0627bce9.zip",
       "bundle_sha256": "0627bce966f80a5f6476229b93b696ecf7ea43eee3734b940ff320cc30830062"
-    },
-    {
-      "name": "BetterSpire2 Lite",
-      "version": "v1.82.3",
-      "source": "nexus:slaythespire2/mods/2",
-      "hash": "ecc5b0a1a69304913909c513f9231888fd12be0cf266c6ca1eda8f1d1ac98e58",
-      "files": [
-        "BetterSpire2Lite\\BetterSpire2Lite.dll",
-        "BetterSpire2Lite\\BetterSpire2Lite.json",
-        "BetterSpire2Lite\\BetterSpire2_localization\\deu.lang",
-        "BetterSpire2Lite\\BetterSpire2_localization\\eng.lang",
-        "BetterSpire2Lite\\BetterSpire2_localization\\esp.lang",
-        "BetterSpire2Lite\\BetterSpire2_localization\\fra.lang",
-        "BetterSpire2Lite\\BetterSpire2_localization\\ita.lang",
-        "BetterSpire2Lite\\BetterSpire2_localization\\jpn.lang",
-        "BetterSpire2Lite\\BetterSpire2_localization\\kor.lang",
-        "BetterSpire2Lite\\BetterSpire2_localization\\pol.lang",
-        "BetterSpire2Lite\\BetterSpire2_localization\\ptb.lang",
-        "BetterSpire2Lite\\BetterSpire2_localization\\README.txt",
-        "BetterSpire2Lite\\BetterSpire2_localization\\rus.lang",
-        "BetterSpire2Lite\\BetterSpire2_localization\\spa.lang",
-        "BetterSpire2Lite\\BetterSpire2_localization\\tha.lang",
-        "BetterSpire2Lite\\BetterSpire2_localization\\tur.lang",
-        "BetterSpire2Lite\\BetterSpire2_localization\\zhs.lang"
-      ],
-      "folder_name": "BetterSpire2Lite",
-      "mod_id": "BetterSpire2Lite",
-      "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/BetterSpire2_Lite_v1.82.3_0ad93927.zip",
-      "bundle_sha256": "0ad939274188bc47561c2879d2e329afc8f10b661b45f28212f1864ee27f9465"
     }
   ],
   "created_at": "2026-05-29T03:14:02.669923800Z",
-  "updated_at": "2026-06-12T21:01:27.154670200Z",
+  "updated_at": "2026-06-12T21:03:56.542297100Z",
   "public": false
 }
