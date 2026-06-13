@@ -143,9 +143,55 @@
       "enabled": true,
       "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Flagellant_vunknown_6796e2f4.zip",
       "bundle_sha256": "6796e2f47bb5c0deca3dba294bef1671be0fa630a8720fd7f2bb51f641eacabb"
+    },
+    {
+      "name": "AncientWaifus",
+      "version": "0.0.1",
+      "source": null,
+      "hash": "aaed46f9a90c9d8db9e2b9976f924bf0df75ff3f727b27825bf8f0738c16e1c7",
+      "files": [
+        "AncientWaifus\\AncientWaifus.dll",
+        "AncientWaifus\\AncientWaifus.json",
+        "AncientWaifus\\AncientWaifus.pck"
+      ],
+      "folder_name": "AncientWaifus",
+      "mod_id": "AncientWaifus",
+      "enabled": true,
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/AncientWaifus_v0.0.1_4fcb7be8.zip",
+      "bundle_sha256": "4fcb7be8e9a8d3919d3d5363aa00a9fd9a9e1eeb89912a255914f1e1c785fdb5"
+    },
+    {
+      "name": "Ascender's Sandbox",
+      "version": "v1.1.1",
+      "source": null,
+      "hash": "7f06fd24bbc4259b94e3fa2d0ed041f4fa984cae06d5394d99fa1274d380f75d",
+      "files": [
+        "Ascender's Sandbox\\Ascenders Sandbox.dll",
+        "Ascender's Sandbox\\Ascenders Sandbox.json",
+        "Ascender's Sandbox\\config.json",
+        "Ascender's Sandbox\\lang\\de.json",
+        "Ascender's Sandbox\\lang\\en.json",
+        "Ascender's Sandbox\\lang\\es-419.json",
+        "Ascender's Sandbox\\lang\\es.json",
+        "Ascender's Sandbox\\lang\\fr.json",
+        "Ascender's Sandbox\\lang\\it.json",
+        "Ascender's Sandbox\\lang\\ja.json",
+        "Ascender's Sandbox\\lang\\ko.json",
+        "Ascender's Sandbox\\lang\\pl.json",
+        "Ascender's Sandbox\\lang\\pt-BR.json",
+        "Ascender's Sandbox\\lang\\ru.json",
+        "Ascender's Sandbox\\lang\\th.json",
+        "Ascender's Sandbox\\lang\\tr.json",
+        "Ascender's Sandbox\\lang\\zh.json"
+      ],
+      "folder_name": "Ascender's Sandbox",
+      "mod_id": "Ascenders Sandbox",
+      "enabled": true,
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Ascender.s_Sandbox_v1.1.1_7995e258.zip",
+      "bundle_sha256": "7995e2585f22e13626ef64e9a9b6fd3e08393260afa64990c887b4368dbb04dc"
     }
   ],
   "created_at": "2026-05-29T03:14:02.669923800Z",
-  "updated_at": "2026-06-12T21:19:33.190094400Z",
+  "updated_at": "2026-06-13T02:48:29.000394300Z",
   "public": false
 }
