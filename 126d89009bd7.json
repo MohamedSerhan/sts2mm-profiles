@@ -1280,10 +1280,27 @@
       "enabled": true,
       "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Multi-Hit_Damage_v1.4_54d03c11.zip",
       "bundle_sha256": "54d03c119643694a29b2c770a77220734f5c13a0a8f365fa9c3b93173a42f309"
+    },
+    {
+      "name": "Relics Reminder",
+      "version": "0.1.0",
+      "source": "nexus:slaythespire2/mods/284",
+      "hash": "68d5224995ef4c6ae954aab918185188c0dd2d10f6a89ce85a08dfb37fd3d1e9",
+      "files": [
+        "RelicsReminder\\RelicsReminder.dll",
+        "RelicsReminder\\RelicsReminder.json",
+        "RelicsReminder\\RelicsReminder_init_marker_local.txt",
+        "RelicsReminder\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "RelicsReminder",
+      "mod_id": "RelicsReminder",
+      "enabled": true,
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Relics_Reminder_v0.1.0_65a791a7.zip",
+      "bundle_sha256": "65a791a711f456c7b6f967ccd717e44572386604b9ccf6119708bf23559285ac"
     }
   ],
   "created_at": "2026-05-14T22:54:12.100826200Z",
-  "updated_at": "2026-06-13T23:31:24.910970Z",
+  "updated_at": "2026-06-13T23:48:39.450295900Z",
   "public": false,
   "mod_extras": {
     "STS2-RitsuLib": {
