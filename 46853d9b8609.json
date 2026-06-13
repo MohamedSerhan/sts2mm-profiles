@@ -16,8 +16,8 @@
       "folder_name": "BaseLib",
       "mod_id": "BaseLib",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.3_00ff2ef8.zip",
-      "bundle_sha256": "00ff2ef8dfb14fb07275df2ac4f592bbbd771a0609b954becb4cec4a8a69fdf8"
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.3_ce3a9f27.zip",
+      "bundle_sha256": "ce3a9f2710dd93d00265dc4b459586bd280ef7b485af35972df6bf1e46855b16"
     },
     {
       "name": "AutoPath",
@@ -31,8 +31,8 @@
       "folder_name": "AutoPath",
       "mod_id": "AutoPath",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/AutoPath_v1.3.2_dbd09f44.zip",
-      "bundle_sha256": "dbd09f449898dcb9808567a31783efcad42aae77ef57dcd6af7446c52676c1d5"
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/AutoPath_v1.3.2_89721d3a.zip",
+      "bundle_sha256": "89721d3a033c4f2b64ac45f1a2cbc32474e53dd89c9964a1e7a8998ee3f081c1"
     },
     {
       "name": "Act 4: Final Ascent",
@@ -47,8 +47,8 @@
       "folder_name": "Act 4 Final Ascent-37-0-1-2f-1775405792",
       "mod_id": "Act4FinalAscent",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Act_4__Final_Ascent_v0.1.2e_0627bce9.zip",
-      "bundle_sha256": "0627bce966f80a5f6476229b93b696ecf7ea43eee3734b940ff320cc30830062"
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Act_4__Final_Ascent_v0.1.2e_ab848eaa.zip",
+      "bundle_sha256": "ab848eaa5cbbc33595a3223f2f3e54948f5c5366c4023b82490554479fcb0f62"
     },
     {
       "name": "Multiplayer Save Slots",
@@ -62,8 +62,8 @@
       "folder_name": "MultiplayerSaveSlots",
       "mod_id": "MultiplayerSaveSlots",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Multiplayer_Save_Slots_v0.2.2_d1100c66.zip",
-      "bundle_sha256": "d1100c667620128f134d37adb9b46895724c9caeb249ff7b3cafbb655507463b"
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Multiplayer_Save_Slots_v0.2.2_d193ce14.zip",
+      "bundle_sha256": "d193ce142745cf79538277e6e48173add55acbc53865fcd5a15373b8eac14df4"
     },
     {
       "name": "DeckStats",
@@ -77,8 +77,8 @@
       "folder_name": "DeckStats",
       "mod_id": "DeckStats",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/DeckStats_v1.0.0_251ea5f0.zip",
-      "bundle_sha256": "251ea5f077324c7fef5a3dd45dfca113e2793a57660729ba8a9d54e18fbb7ea4"
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/DeckStats_v1.0.0_8c85a68e.zip",
+      "bundle_sha256": "8c85a68e5fd8d54572d0c66fece910112c0152f479554c69066178fe947fb30d"
     },
     {
       "name": "ModConfig",
@@ -96,8 +96,8 @@
       "folder_name": "ModConfig",
       "mod_id": "ModConfig",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/ModConfig_v0.2.1_7be0a018.zip",
-      "bundle_sha256": "7be0a018d908910e524078033d03e7e38de7160e26faac7f43d65c9a9c8b3d48"
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/ModConfig_v0.2.1_a83bd754.zip",
+      "bundle_sha256": "a83bd75433680e0a39753e0dcc20ddfc90c810bda9a8fc35184ddf272c71b83d"
     },
     {
       "name": "BetterSpire2 Lite",
@@ -126,8 +126,8 @@
       "folder_name": "BetterSpire2Lite",
       "mod_id": "BetterSpire2Lite",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/BetterSpire2_Lite_v1.82.3_0ad93927.zip",
-      "bundle_sha256": "0ad939274188bc47561c2879d2e329afc8f10b661b45f28212f1864ee27f9465"
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/BetterSpire2_Lite_v1.82.3_1f2703de.zip",
+      "bundle_sha256": "1f2703decacaa21fd57d9e86ed6fa4d7b619bfa8daadf5d4fce270d4bf92ddae"
     },
     {
       "name": "Flagellant",
@@ -141,8 +141,8 @@
       ],
       "folder_name": "Flagellant",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Flagellant_vunknown_6796e2f4.zip",
-      "bundle_sha256": "6796e2f47bb5c0deca3dba294bef1671be0fa630a8720fd7f2bb51f641eacabb"
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Flagellant_vunknown_017fcb0d.zip",
+      "bundle_sha256": "017fcb0dcccaf3cd07df2f51918a1d27f136aaa0acba3c84bcdf29358478a818"
     },
     {
       "name": "AncientWaifus",
@@ -157,8 +157,8 @@
       "folder_name": "AncientWaifus",
       "mod_id": "AncientWaifus",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/AncientWaifus_v0.0.1_4fcb7be8.zip",
-      "bundle_sha256": "4fcb7be8e9a8d3919d3d5363aa00a9fd9a9e1eeb89912a255914f1e1c785fdb5"
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/AncientWaifus_v0.0.1_a9a6876a.zip",
+      "bundle_sha256": "a9a6876acfb007700a14c20d1b15a4fb9a55b79efa15357839dd8352ed301f6e"
     },
     {
       "name": "Ascender's Sandbox",
@@ -187,11 +187,68 @@
       "folder_name": "Ascender's Sandbox",
       "mod_id": "Ascenders Sandbox",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Ascender.s_Sandbox_v1.1.1_7995e258.zip",
-      "bundle_sha256": "7995e2585f22e13626ef64e9a9b6fd3e08393260afa64990c887b4368dbb04dc"
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Ascender_s_Sandbox_v1.1.1_978fd530.zip",
+      "bundle_sha256": "978fd530f7a1f1bfbc4a2df59e2e4647ad7bf69dd1497261253d695a09e80f70"
+    },
+    {
+      "name": "Card Editor",
+      "version": "5.4",
+      "source": null,
+      "hash": "176af07580beddbbe59a3fd5ab689efe1056f321c33e7a42c40f890a1f0318b3",
+      "files": [
+        "Card editor and Creator\\assets\\back_button_base_texture.png",
+        "Card editor and Creator\\assets\\back_button_outline_texture.png",
+        "Card editor and Creator\\assets\\base_deck_button_asset.tscn",
+        "Card editor and Creator\\assets\\base_deck_button_outline_override.png",
+        "Card editor and Creator\\assets\\base_deck_button_texture_override.png",
+        "Card editor and Creator\\assets\\compressed_0.png",
+        "Card editor and Creator\\assets\\hsv.gdshader",
+        "Card editor and Creator\\assets\\kreon_bold.ttf",
+        "Card editor and Creator\\assets\\README.md",
+        "Card editor and Creator\\assets\\Redtail 3.png",
+        "Card editor and Creator\\assets\\RedTail.png",
+        "Card editor and Creator\\assets\\RedTAIL2.png",
+        "Card editor and Creator\\assets\\ui_atlas_1.png",
+        "Card editor and Creator\\assets\\White Background 3.png",
+        "Card editor and Creator\\assets\\White background.png",
+        "Card editor and Creator\\assets\\White3.png",
+        "Card editor and Creator\\card art\\20260203_033757.jpg",
+        "Card editor and Creator\\card art\\20260407_213131.jpg",
+        "Card editor and Creator\\card art\\59b78a34809d100997db0b3b128fab56.jpg",
+        "Card editor and Creator\\card art\\6eac079f85ace30fc647a4346f392671.jpg",
+        "Card editor and Creator\\card art\\dabc4cef852a16c97a17ec1c2cf98526.jpg",
+        "Card editor and Creator\\card art\\diancie_pokemon_drawn_by_kawaanago_-_8992a94e1cfa1fd8391e1af5fbf3ac64.png",
+        "Card editor and Creator\\card art\\f05114506cf2dbf10c3a8bc3fa5fcaa5.jpg",
+        "Card editor and Creator\\card art\\f202cdcee873bb2b92905a8a9fb925bd.jpg",
+        "Card editor and Creator\\card art\\fe8d3be54b9ef9be7d6917766c07d0f7.jpg",
+        "Card editor and Creator\\card art\\inugami_korone_hololive_drawn_by_nabe_nabe_otome_-_fadb8a2aa40ea03060d2267869dfe9a6.jpg",
+        "Card editor and Creator\\card art\\put_your_images_here.txt",
+        "Card editor and Creator\\card art\\Screenshot_9.png",
+        "Card editor and Creator\\card_editor.dll",
+        "Card editor and Creator\\card_editor.json",
+        "Card editor and Creator\\card_editor.pck",
+        "Card editor and Creator\\card_editor.pdb",
+        "Card editor and Creator\\card_editor_settings.txt",
+        "Card editor and Creator\\custom icons\\README.txt",
+        "Card editor and Creator\\localization\\eng\\extensions.loc",
+        "Card editor and Creator\\localization\\eng\\settings_ui.loc",
+        "Card editor and Creator\\localization\\kor\\extensions.loc",
+        "Card editor and Creator\\localization\\kor\\settings_ui.loc",
+        "Card editor and Creator\\localization\\zhs\\extensions.loc",
+        "Card editor and Creator\\localization\\zhs\\settings_ui.loc",
+        "Card editor and Creator\\README.txt",
+        "Card editor and Creator\\TUTORIAL.txt",
+        "Card editor and Creator\\TUTORIAL_kor.txt",
+        "Card editor and Creator\\TUTORIAL_zhs.txt"
+      ],
+      "folder_name": "Card editor and Creator",
+      "mod_id": "card_editor",
+      "enabled": true,
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Card_Editor_v5.4_ce786407.zip",
+      "bundle_sha256": "ce786407db57f8a54b515a67178bd7b0b4cd08dacb574a6be623fd55eae085e3"
     }
   ],
   "created_at": "2026-05-29T03:14:02.669923800Z",
-  "updated_at": "2026-06-13T02:48:29.000394300Z",
+  "updated_at": "2026-06-13T02:55:48.704726200Z",
   "public": false
 }
