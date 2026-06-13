@@ -1230,10 +1230,60 @@
       "enabled": true,
       "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/StS2_Card_Advisor_v1.15.4_4b092a03.zip",
       "bundle_sha256": "4b092a032ab3ef0daf19f187ee6b4a9fa5ab485f24203eb2b011717002ca3f48"
+    },
+    {
+      "name": "Relic Rarity Display",
+      "version": "1.1",
+      "source": "nexus:slaythespire2/mods/28",
+      "hash": "3e0f32fe90d01529d0a8293c21bc1910a38297bd079147196ff1c16bf6a722fc",
+      "files": [
+        "RelicRarityDisplay\\mod_manifest.json",
+        "RelicRarityDisplay\\RelicRarityDisplay.dll",
+        "RelicRarityDisplay\\RelicRarityDisplay.pck",
+        "RelicRarityDisplay\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "RelicRarityDisplay",
+      "mod_id": "RelicRarityDisplay",
+      "enabled": true,
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Relic_Rarity_Display_v1.1_52cbb8e2.zip",
+      "bundle_sha256": "52cbb8e2889af3f7607aa504e002e6349bc49a5e95859b1c47e037164a5997ef"
+    },
+    {
+      "name": "皮皮极速: SpeedX",
+      "version": "0.11.7",
+      "source": "nexus:slaythespire2/mods/91",
+      "hash": "fe152522c9d030290c2db2eb3777ff3d7f835be5cb8c739df9c3e64e7da6384d",
+      "files": [
+        "SpeedX\\SpeedX.dll",
+        "SpeedX\\SpeedX.json",
+        "SpeedX\\SpeedX.pck"
+      ],
+      "folder_name": "SpeedX",
+      "mod_id": "SpeedX",
+      "enabled": true,
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/__SpeedX_v0.11.7_d136d252.zip",
+      "bundle_sha256": "d136d252eee4417dc1855ff5beb79e7547b5c775f36b66d8f9d1d7f60b20f23a"
+    },
+    {
+      "name": "Multi-Hit Damage",
+      "version": "1.4",
+      "source": "nexus:slaythespire2/mods/50",
+      "hash": "d583eb94a671ab3fa539fd256d7f031138aee4036fde42023c054545d55917fa",
+      "files": [
+        "MultiHitDamage\\mod_manifest.json",
+        "MultiHitDamage\\MultiHitDamage.dll",
+        "MultiHitDamage\\MultiHitDamage.pck",
+        "MultiHitDamage\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "MultiHitDamage",
+      "mod_id": "MultiHitDamage",
+      "enabled": true,
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Multi-Hit_Damage_v1.4_54d03c11.zip",
+      "bundle_sha256": "54d03c119643694a29b2c770a77220734f5c13a0a8f365fa9c3b93173a42f309"
     }
   ],
   "created_at": "2026-05-14T22:54:12.100826200Z",
-  "updated_at": "2026-06-13T20:22:37.104317700Z",
+  "updated_at": "2026-06-13T23:28:30.764468700Z",
   "public": false,
   "mod_extras": {
     "STS2-RitsuLib": {
