@@ -1,4 +1,5 @@
 {
+  "id": "c53efeb5-506b-4df5-a472-4f1fbaa8d452",
   "name": "Solo Pack",
   "game_version": null,
   "created_by": "MohamedSerhan",
@@ -132,7 +133,7 @@
     {
       "name": "Flagellant",
       "version": "unknown",
-      "source": null,
+      "source": "nexus:slaythespire2/mods/1073",
       "hash": "b39e225e52e328202354ae1f6993d8c2504b775f75ba90b364dd606fdb8335de",
       "files": [
         "Flagellant/Flagellant.dll",
@@ -246,9 +247,28 @@
       "enabled": true,
       "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Card_Editor_v5.4_ce786407.zip",
       "bundle_sha256": "ce786407db57f8a54b515a67178bd7b0b4cd08dacb574a6be623fd55eae085e3"
+    },
+    {
+      "name": "CardsAndRelicsChooser.deps",
+      "version": "0.0.0",
+      "source": null,
+      "hash": "889949034e2ccddbde50d4436b39a8a71f5217dc3dcfbea1ef431d53d4387afd",
+      "files": [
+        "CardsAndRelicsChooser\\CardsAndRelicsChooser.deps.json",
+        "CardsAndRelicsChooser\\CardsAndRelicsChooser.dll",
+        "CardsAndRelicsChooser\\CardsAndRelicsChooser.pdb",
+        "CardsAndRelicsChooser\\cards_and_relics_hotkeys.json",
+        "CardsAndRelicsChooser\\cards_and_relics_sidebar_layout.json",
+        "CardsAndRelicsChooser\\logs\\cards_and_relics_chooser.log",
+        "CardsAndRelicsChooser\\mod_manifest.json"
+      ],
+      "folder_name": "CardsAndRelicsChooser",
+      "enabled": true,
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/CardsAndRelicsChooser_deps_v0.0.0_8c36d986.zip",
+      "bundle_sha256": "8c36d9860eee168cac8bf582310c5b4a2f2b94567a5af1fc9c610c73637e608d"
     }
   ],
   "created_at": "2026-05-29T03:14:02.669923800Z",
-  "updated_at": "2026-06-13T02:55:48.704726200Z",
+  "updated_at": "2026-06-14T00:19:50.055472700Z",
   "public": false
 }
