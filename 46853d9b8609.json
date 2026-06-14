@@ -17,8 +17,8 @@
       "folder_name": "BaseLib",
       "mod_id": "BaseLib",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.3_ce3a9f27.zip",
-      "bundle_sha256": "ce3a9f2710dd93d00265dc4b459586bd280ef7b485af35972df6bf1e46855b16"
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.3_00d4c0b8.zip",
+      "bundle_sha256": "00d4c0b84fabd56c35aba4833e0f3c014150e952f156f3dc108a9d472ab9f4b2"
     },
     {
       "name": "AutoPath",
@@ -266,9 +266,54 @@
       "enabled": true,
       "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/CardsAndRelicsChooser_deps_v0.0.0_8c36d986.zip",
       "bundle_sha256": "8c36d9860eee168cac8bf582310c5b4a2f2b94567a5af1fc9c610c73637e608d"
+    },
+    {
+      "name": "End Run Graph",
+      "version": "0.3.1",
+      "source": "nexus:slaythespire2/mods/1040",
+      "hash": "ee4d9727ea989865595b1d563fc00506a13c91b7045b2f27c6faad27b1e5924e",
+      "files": [
+        "EndRunGraph-v03.1-Beta-STS2-v0.107.0\\EndRunGraph.dll",
+        "EndRunGraph-v03.1-Beta-STS2-v0.107.0\\mod_manifest.json"
+      ],
+      "folder_name": "EndRunGraph-v03.1-Beta-STS2-v0.107.0",
+      "mod_id": "EndRunGraph",
+      "enabled": true,
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/End_Run_Graph_v0.3.1_bd60ca8e.zip",
+      "bundle_sha256": "bd60ca8e6a35e6f061d186c93f50553f69bc86c9b441f3001ab416c5d06919df"
+    },
+    {
+      "name": "BetterSpire2",
+      "version": "v1.82.3",
+      "source": "nexus:slaythespire2/mods/2",
+      "hash": "bade1c0a8d4d2a410c1af11be0888df43d09f02d8e6226972c9ec7264dfc4526",
+      "files": [
+        "BetterSpire2\\BetterSpire2.dll",
+        "BetterSpire2\\BetterSpire2.json",
+        "BetterSpire2\\BetterSpire2_localization\\deu.lang",
+        "BetterSpire2\\BetterSpire2_localization\\eng.lang",
+        "BetterSpire2\\BetterSpire2_localization\\esp.lang",
+        "BetterSpire2\\BetterSpire2_localization\\fra.lang",
+        "BetterSpire2\\BetterSpire2_localization\\ita.lang",
+        "BetterSpire2\\BetterSpire2_localization\\jpn.lang",
+        "BetterSpire2\\BetterSpire2_localization\\kor.lang",
+        "BetterSpire2\\BetterSpire2_localization\\pol.lang",
+        "BetterSpire2\\BetterSpire2_localization\\ptb.lang",
+        "BetterSpire2\\BetterSpire2_localization\\README.txt",
+        "BetterSpire2\\BetterSpire2_localization\\rus.lang",
+        "BetterSpire2\\BetterSpire2_localization\\spa.lang",
+        "BetterSpire2\\BetterSpire2_localization\\tha.lang",
+        "BetterSpire2\\BetterSpire2_localization\\tur.lang",
+        "BetterSpire2\\BetterSpire2_localization\\zhs.lang"
+      ],
+      "folder_name": "BetterSpire2",
+      "mod_id": "BetterSpire2",
+      "enabled": true,
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.82.3_d4172341.zip",
+      "bundle_sha256": "d41723410e5e5a4c6c73191e4cbf6ba5a3c813bed7a40fb83d32765e495b6402"
     }
   ],
   "created_at": "2026-05-29T03:14:02.669923800Z",
-  "updated_at": "2026-06-14T00:19:50.055472700Z",
+  "updated_at": "2026-06-14T03:12:24.847568700Z",
   "public": false
 }
