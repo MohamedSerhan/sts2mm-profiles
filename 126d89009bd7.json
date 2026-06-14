@@ -5,38 +5,6 @@
   "created_by": "MohamedSerhan",
   "mods": [
     {
-      "name": "Alice Defect Card Art",
-      "version": "1.0.0",
-      "source": null,
-      "hash": "e8f2cf8ae287d34440847017ba872722c9a4649ae7f717ffbdf130a099515440",
-      "files": [
-        "AliceDefectCard\\AliceDefectCard.dll",
-        "AliceDefectCard\\AliceDefectCard.json",
-        "AliceDefectCard\\AliceDefectCard.pck"
-      ],
-      "folder_name": "AliceDefectCard",
-      "mod_id": "AliceDefectCard",
-      "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Alice_Defect_Card_Art_v1.0.0_3aebfc50.zip",
-      "bundle_sha256": "3aebfc50e0f8f10f50dde0fadb44be2f74e2c78a453abd2bea6e269f8a5318c1"
-    },
-    {
-      "name": "Alice Defect Skin",
-      "version": "0.1.27",
-      "source": "nexus:slaythespire2/mods/979",
-      "hash": "20fc9ded87d69a2c2d076568da47b52a1cf51595572f6f0ef725cfe2084b7b2e",
-      "files": [
-        "AliceDefectSkin\\AliceDefectSkin.dll",
-        "AliceDefectSkin\\AliceDefectSkin.json",
-        "AliceDefectSkin\\AliceDefectSkin.pck"
-      ],
-      "folder_name": "AliceDefectSkin",
-      "mod_id": "AliceDefectSkin",
-      "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Alice_Defect_Skin_v0.1.27_350383e2.zip",
-      "bundle_sha256": "350383e262f03fadcd738332dd4f00962316b210e4b87ae8b7e115ad4b8f5f90"
-    },
-    {
       "name": "AncientWaifus",
       "version": "0.0.1",
       "source": null,
@@ -1300,7 +1268,7 @@
     }
   ],
   "created_at": "2026-05-14T22:54:12.100826200Z",
-  "updated_at": "2026-06-13T23:48:39.450295900Z",
+  "updated_at": "2026-06-14T00:09:05.069147200Z",
   "public": false,
   "mod_extras": {
     "STS2-RitsuLib": {
