@@ -5,22 +5,6 @@
   "created_by": "MohamedSerhan",
   "mods": [
     {
-      "name": "AncientWaifus",
-      "version": "0.0.1",
-      "source": null,
-      "hash": "aaed46f9a90c9d8db9e2b9976f924bf0df75ff3f727b27825bf8f0738c16e1c7",
-      "files": [
-        "AncientWaifus\\AncientWaifus.dll",
-        "AncientWaifus\\AncientWaifus.json",
-        "AncientWaifus\\AncientWaifus.pck"
-      ],
-      "folder_name": "AncientWaifus",
-      "mod_id": "AncientWaifus",
-      "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/AncientWaifus_v0.0.1_a9a6876a.zip",
-      "bundle_sha256": "a9a6876acfb007700a14c20d1b15a4fb9a55b79efa15357839dd8352ed301f6e"
-    },
-    {
       "name": "Ascender's Sandbox",
       "version": "v1.1.1",
       "source": null,
@@ -1268,7 +1252,7 @@
     }
   ],
   "created_at": "2026-05-14T22:54:12.100826200Z",
-  "updated_at": "2026-06-14T00:09:05.069147200Z",
+  "updated_at": "2026-06-14T00:09:42.378917400Z",
   "public": false,
   "mod_extras": {
     "STS2-RitsuLib": {
