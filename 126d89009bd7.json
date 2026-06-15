@@ -5,6 +5,22 @@
   "created_by": "MohamedSerhan",
   "mods": [
     {
+      "name": "BaseLib",
+      "version": "v3.1.3",
+      "source": "github:Alchyr/BaseLib-StS2",
+      "hash": "99d670c49edef2644ef9c6e81356c090be72255b60a60c2cbabf3ddaa7d494fe",
+      "files": [
+        "BaseLib\\BaseLib.dll",
+        "BaseLib\\BaseLib.json",
+        "BaseLib\\BaseLib.pck"
+      ],
+      "folder_name": "BaseLib",
+      "mod_id": "BaseLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.3_00d4c0b8.zip",
+      "bundle_sha256": "00d4c0b84fabd56c35aba4833e0f3c014150e952f156f3dc108a9d472ab9f4b2"
+    },
+    {
       "name": "Ascender's Sandbox",
       "version": "v1.1.1",
       "source": null,
@@ -35,36 +51,38 @@
       "bundle_sha256": "978fd530f7a1f1bfbc4a2df59e2e4647ad7bf69dd1497261253d695a09e80f70"
     },
     {
-      "name": "BaseLib",
-      "version": "v3.1.3",
-      "source": "github:Alchyr/BaseLib-StS2",
-      "hash": "99d670c49edef2644ef9c6e81356c090be72255b60a60c2cbabf3ddaa7d494fe",
+      "name": "Classic Mode",
+      "version": "0.1.4.2",
+      "source": null,
+      "hash": "5c9e94b8209d1950dd7ab762332c97c50e1a1952e1d26d578c81f03954315d66",
       "files": [
-        "BaseLib\\BaseLib.dll",
-        "BaseLib\\BaseLib.json",
-        "BaseLib\\BaseLib.pck"
+        "Classic Mode\\ClassicMode-0.1.4.zip",
+        "Classic Mode\\ClassicMode.dll",
+        "Classic Mode\\ClassicMode.json",
+        "Classic Mode\\ClassicMode.pck",
+        "Classic Mode\\classic_config.json"
       ],
-      "folder_name": "BaseLib",
-      "mod_id": "BaseLib",
+      "folder_name": "Classic Mode",
+      "mod_id": "ClassicMode",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.3_00d4c0b8.zip",
-      "bundle_sha256": "00d4c0b84fabd56c35aba4833e0f3c014150e952f156f3dc108a9d472ab9f4b2"
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Classic_Mode_v0.1.4.2_522b6381.zip",
+      "bundle_sha256": "522b6381f7f5abf2460baa6ba64f88b19d408b30b5e8247e1fada947b022c9f4"
     },
     {
-      "name": "BetterRewards",
-      "version": "1.2.0",
-      "source": "github:customjack/sts2_BetterRewards",
-      "hash": "ff4915662cc37191a2ffceb2c55b645fcb16d57411e4b7edda60e7574e57634d",
+      "name": "HellBandGirls",
+      "version": "0.2.1",
+      "source": null,
+      "hash": "cdeb61084afaeb32660021e8986dcb5e3446fb13524e1720aaddefe8583c8335",
       "files": [
-        "BetterRewards\\BetterRewards.dll",
-        "BetterRewards\\BetterRewards.json",
-        "BetterRewards\\BetterRewards.pck"
+        "HellBand\\HellBandMod.dll",
+        "HellBand\\HellBandMod.json",
+        "HellBand\\HellBandMod.pck"
       ],
-      "folder_name": "BetterRewards",
-      "mod_id": "BetterRewards",
+      "folder_name": "HellBand",
+      "mod_id": "HellBandMod",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/BetterRewards_v1.2.0_26de6cef.zip",
-      "bundle_sha256": "26de6cef287d87c5a6637946ba9db7a05a0ef963405dace034680e97cf80a20f"
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/HellBandGirls_v0.2.1_91138635.zip",
+      "bundle_sha256": "9113863563ce84a2610c3d6046f648637d272c686c8db774d32985f419136b21"
     },
     {
       "name": "BetterSpire2",
@@ -95,6 +113,57 @@
       "enabled": true,
       "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.82.3_d4172341.zip",
       "bundle_sha256": "d41723410e5e5a4c6c73191e4cbf6ba5a3c813bed7a40fb83d32765e495b6402"
+    },
+    {
+      "name": "BetterRewards",
+      "version": "1.2.0",
+      "source": "github:customjack/sts2_BetterRewards",
+      "hash": "ff4915662cc37191a2ffceb2c55b645fcb16d57411e4b7edda60e7574e57634d",
+      "files": [
+        "BetterRewards\\BetterRewards.dll",
+        "BetterRewards\\BetterRewards.json",
+        "BetterRewards\\BetterRewards.pck"
+      ],
+      "folder_name": "BetterRewards",
+      "mod_id": "BetterRewards",
+      "enabled": true,
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/BetterRewards_v1.2.0_26de6cef.zip",
+      "bundle_sha256": "26de6cef287d87c5a6637946ba9db7a05a0ef963405dace034680e97cf80a20f"
+    },
+    {
+      "name": "CardsAndRelicsChooser.deps",
+      "version": "0.0.0",
+      "source": null,
+      "hash": "889949034e2ccddbde50d4436b39a8a71f5217dc3dcfbea1ef431d53d4387afd",
+      "files": [
+        "CardsAndRelicsChooser\\CardsAndRelicsChooser.deps.json",
+        "CardsAndRelicsChooser\\CardsAndRelicsChooser.dll",
+        "CardsAndRelicsChooser\\CardsAndRelicsChooser.pdb",
+        "CardsAndRelicsChooser\\cards_and_relics_hotkeys.json",
+        "CardsAndRelicsChooser\\cards_and_relics_sidebar_layout.json",
+        "CardsAndRelicsChooser\\logs\\cards_and_relics_chooser.log",
+        "CardsAndRelicsChooser\\mod_manifest.json"
+      ],
+      "folder_name": "CardsAndRelicsChooser",
+      "enabled": true,
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/CardsAndRelicsChooser_deps_v0.0.0_8c36d986.zip",
+      "bundle_sha256": "8c36d9860eee168cac8bf582310c5b4a2f2b94567a5af1fc9c610c73637e608d"
+    },
+    {
+      "name": "Codex Endless Mode",
+      "version": "0.1.0",
+      "source": null,
+      "hash": "51953ac0d6e8c2c8c1e9e5d1535444658d8a00398e4a817747f602d49d5ce804",
+      "files": [
+        "codex.sts2.endlessmode\\codex.sts2.endlessmode.config",
+        "codex.sts2.endlessmode\\codex.sts2.endlessmode.dll",
+        "codex.sts2.endlessmode\\codex.sts2.endlessmode.json"
+      ],
+      "folder_name": "codex.sts2.endlessmode",
+      "mod_id": "codex.sts2.endlessmode",
+      "enabled": true,
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Codex_Endless_Mode_v0.1.0_616e2c6e.zip",
+      "bundle_sha256": "616e2c6e73cca706bb9d5bbb88cd35312dabfee0c391c9fb36f6d7cfdf04f753"
     },
     {
       "name": "Card Editor",
@@ -152,75 +221,6 @@
       "enabled": true,
       "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Card_Editor_v5.4_ce786407.zip",
       "bundle_sha256": "ce786407db57f8a54b515a67178bd7b0b4cd08dacb574a6be623fd55eae085e3"
-    },
-    {
-      "name": "CardsAndRelicsChooser.deps",
-      "version": "0.0.0",
-      "source": null,
-      "hash": "889949034e2ccddbde50d4436b39a8a71f5217dc3dcfbea1ef431d53d4387afd",
-      "files": [
-        "CardsAndRelicsChooser\\CardsAndRelicsChooser.deps.json",
-        "CardsAndRelicsChooser\\CardsAndRelicsChooser.dll",
-        "CardsAndRelicsChooser\\CardsAndRelicsChooser.pdb",
-        "CardsAndRelicsChooser\\cards_and_relics_hotkeys.json",
-        "CardsAndRelicsChooser\\cards_and_relics_sidebar_layout.json",
-        "CardsAndRelicsChooser\\logs\\cards_and_relics_chooser.log",
-        "CardsAndRelicsChooser\\mod_manifest.json"
-      ],
-      "folder_name": "CardsAndRelicsChooser",
-      "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/CardsAndRelicsChooser_deps_v0.0.0_8c36d986.zip",
-      "bundle_sha256": "8c36d9860eee168cac8bf582310c5b4a2f2b94567a5af1fc9c610c73637e608d"
-    },
-    {
-      "name": "Classic Mode",
-      "version": "0.1.4.2",
-      "source": null,
-      "hash": "5c9e94b8209d1950dd7ab762332c97c50e1a1952e1d26d578c81f03954315d66",
-      "files": [
-        "Classic Mode\\ClassicMode-0.1.4.zip",
-        "Classic Mode\\ClassicMode.dll",
-        "Classic Mode\\ClassicMode.json",
-        "Classic Mode\\ClassicMode.pck",
-        "Classic Mode\\classic_config.json"
-      ],
-      "folder_name": "Classic Mode",
-      "mod_id": "ClassicMode",
-      "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Classic_Mode_v0.1.4.2_522b6381.zip",
-      "bundle_sha256": "522b6381f7f5abf2460baa6ba64f88b19d408b30b5e8247e1fada947b022c9f4"
-    },
-    {
-      "name": "Codex Endless Mode",
-      "version": "0.1.0",
-      "source": null,
-      "hash": "51953ac0d6e8c2c8c1e9e5d1535444658d8a00398e4a817747f602d49d5ce804",
-      "files": [
-        "codex.sts2.endlessmode\\codex.sts2.endlessmode.config",
-        "codex.sts2.endlessmode\\codex.sts2.endlessmode.dll",
-        "codex.sts2.endlessmode\\codex.sts2.endlessmode.json"
-      ],
-      "folder_name": "codex.sts2.endlessmode",
-      "mod_id": "codex.sts2.endlessmode",
-      "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Codex_Endless_Mode_v0.1.0_616e2c6e.zip",
-      "bundle_sha256": "616e2c6e73cca706bb9d5bbb88cd35312dabfee0c391c9fb36f6d7cfdf04f753"
-    },
-    {
-      "name": "HellBandGirls",
-      "version": "0.2.1",
-      "source": null,
-      "hash": "cdeb61084afaeb32660021e8986dcb5e3446fb13524e1720aaddefe8583c8335",
-      "files": [
-        "HellBand\\HellBandMod.dll",
-        "HellBand\\HellBandMod.json",
-        "HellBand\\HellBandMod.pck"
-      ],
-      "folder_name": "HellBand",
-      "mod_id": "HellBandMod",
-      "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/HellBandGirls_v0.2.1_91138635.zip",
-      "bundle_sha256": "9113863563ce84a2610c3d6046f648637d272c686c8db774d32985f419136b21"
     },
     {
       "name": "Hide Relic Overflow",
@@ -924,8 +924,8 @@
       "folder_name": "ModConfig",
       "mod_id": "ModConfig",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/ModConfig_v0.2.1_a83bd754.zip",
-      "bundle_sha256": "a83bd75433680e0a39753e0dcc20ddfc90c810bda9a8fc35184ddf272c71b83d"
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.1_31854ce5.zip",
+      "bundle_sha256": "31854ce565bd4a881a048b033d8cf5e5c3be93b1adb90730d5e9e31a33d32777"
     },
     {
       "name": "霞沢美游[Kasumizawa Miyu]",
@@ -1270,7 +1270,7 @@
     }
   ],
   "created_at": "2026-05-14T22:54:12.100826200Z",
-  "updated_at": "2026-06-14T00:12:24.941887400Z",
+  "updated_at": "2026-06-14T22:53:17.212484400Z",
   "public": false,
   "mod_extras": {
     "STS2-RitsuLib": {
