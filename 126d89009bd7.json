@@ -5,8 +5,9 @@
   "created_by": "MohamedSerhan",
   "mods": [
     {
+      "mod_version_id": "8842c6bf-904b-4641-a4aa-93bf31df4626",
       "name": "BaseLib",
-      "version": "v3.1.3",
+      "version": "v3.2.1",
       "source": "github:Alchyr/BaseLib-StS2",
       "hash": "99d670c49edef2644ef9c6e81356c090be72255b60a60c2cbabf3ddaa7d494fe",
       "files": [
@@ -17,10 +18,45 @@
       "folder_name": "BaseLib",
       "mod_id": "BaseLib",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.3_00d4c0b8.zip",
-      "bundle_sha256": "00d4c0b84fabd56c35aba4833e0f3c014150e952f156f3dc108a9d472ab9f4b2"
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/BaseLib_v3.2.1_a7df565a.zip",
+      "bundle_sha256": "a7df565a3fc2b5726652ebc266e0c27f972627c80c81455e4c6bf744d7a7900e"
     },
     {
+      "mod_version_id": "69c16f87-4222-45a3-a6ee-5a213c673916",
+      "name": "BetterRewards",
+      "version": "1.2.0",
+      "source": "github:customjack/sts2_BetterRewards",
+      "hash": "ff4915662cc37191a2ffceb2c55b645fcb16d57411e4b7edda60e7574e57634d",
+      "files": [
+        "BetterRewards\\BetterRewards.dll",
+        "BetterRewards\\BetterRewards.json",
+        "BetterRewards\\BetterRewards.pck"
+      ],
+      "folder_name": "BetterRewards",
+      "mod_id": "BetterRewards",
+      "enabled": true,
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/BetterRewards_v1.2.0_26de6cef.zip",
+      "bundle_sha256": "26de6cef287d87c5a6637946ba9db7a05a0ef963405dace034680e97cf80a20f"
+    },
+    {
+      "mod_version_id": "ecd2a626-0dd4-4b8a-b9d0-b0e433e8584d",
+      "name": "HellBandGirls",
+      "version": "0.2.1",
+      "source": null,
+      "hash": "cdeb61084afaeb32660021e8986dcb5e3446fb13524e1720aaddefe8583c8335",
+      "files": [
+        "HellBand\\HellBandMod.dll",
+        "HellBand\\HellBandMod.json",
+        "HellBand\\HellBandMod.pck"
+      ],
+      "folder_name": "HellBand",
+      "mod_id": "HellBandMod",
+      "enabled": true,
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/HellBandGirls_v0.2.1_91138635.zip",
+      "bundle_sha256": "9113863563ce84a2610c3d6046f648637d272c686c8db774d32985f419136b21"
+    },
+    {
+      "mod_version_id": "cc628b93-3d2a-4d4c-a61e-0eac08b5d98e",
       "name": "Ascender's Sandbox",
       "version": "v1.1.1",
       "source": null,
@@ -51,6 +87,7 @@
       "bundle_sha256": "978fd530f7a1f1bfbc4a2df59e2e4647ad7bf69dd1497261253d695a09e80f70"
     },
     {
+      "mod_version_id": "0a393263-e6bd-42cf-8ea4-1588897472c4",
       "name": "Classic Mode",
       "version": "0.1.4.2",
       "source": null,
@@ -69,24 +106,9 @@
       "bundle_sha256": "522b6381f7f5abf2460baa6ba64f88b19d408b30b5e8247e1fada947b022c9f4"
     },
     {
-      "name": "HellBandGirls",
-      "version": "0.2.1",
-      "source": null,
-      "hash": "cdeb61084afaeb32660021e8986dcb5e3446fb13524e1720aaddefe8583c8335",
-      "files": [
-        "HellBand\\HellBandMod.dll",
-        "HellBand\\HellBandMod.json",
-        "HellBand\\HellBandMod.pck"
-      ],
-      "folder_name": "HellBand",
-      "mod_id": "HellBandMod",
-      "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/HellBandGirls_v0.2.1_91138635.zip",
-      "bundle_sha256": "9113863563ce84a2610c3d6046f648637d272c686c8db774d32985f419136b21"
-    },
-    {
+      "mod_version_id": "6967f9d2-f7ce-4d98-a268-05e27b3f2dbb",
       "name": "BetterSpire2",
-      "version": "v1.82.3",
+      "version": "v1.83.1",
       "source": "nexus:slaythespire2/mods/2",
       "hash": "bade1c0a8d4d2a410c1af11be0888df43d09f02d8e6226972c9ec7264dfc4526",
       "files": [
@@ -111,26 +133,11 @@
       "folder_name": "BetterSpire2",
       "mod_id": "BetterSpire2",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.82.3_d4172341.zip",
-      "bundle_sha256": "d41723410e5e5a4c6c73191e4cbf6ba5a3c813bed7a40fb83d32765e495b6402"
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.83.1_733146bf.zip",
+      "bundle_sha256": "733146bf7802ed9a07b53dbd038c780f82628aed7e7ee7c3ece91a71579b279d"
     },
     {
-      "name": "BetterRewards",
-      "version": "1.2.0",
-      "source": "github:customjack/sts2_BetterRewards",
-      "hash": "ff4915662cc37191a2ffceb2c55b645fcb16d57411e4b7edda60e7574e57634d",
-      "files": [
-        "BetterRewards\\BetterRewards.dll",
-        "BetterRewards\\BetterRewards.json",
-        "BetterRewards\\BetterRewards.pck"
-      ],
-      "folder_name": "BetterRewards",
-      "mod_id": "BetterRewards",
-      "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/BetterRewards_v1.2.0_26de6cef.zip",
-      "bundle_sha256": "26de6cef287d87c5a6637946ba9db7a05a0ef963405dace034680e97cf80a20f"
-    },
-    {
+      "mod_version_id": "4cc5fb17-bc1c-419d-8f14-4386a0582861",
       "name": "CardsAndRelicsChooser.deps",
       "version": "0.0.0",
       "source": null,
@@ -150,6 +157,7 @@
       "bundle_sha256": "8c36d9860eee168cac8bf582310c5b4a2f2b94567a5af1fc9c610c73637e608d"
     },
     {
+      "mod_version_id": "7802f72a-3f5d-4229-bef7-1d043f64573e",
       "name": "Codex Endless Mode",
       "version": "0.1.0",
       "source": null,
@@ -166,6 +174,7 @@
       "bundle_sha256": "616e2c6e73cca706bb9d5bbb88cd35312dabfee0c391c9fb36f6d7cfdf04f753"
     },
     {
+      "mod_version_id": "df930090-15ad-4e84-b64d-3d3233a675ab",
       "name": "Card Editor",
       "version": "5.4",
       "source": null,
@@ -223,6 +232,7 @@
       "bundle_sha256": "ce786407db57f8a54b515a67178bd7b0b4cd08dacb574a6be623fd55eae085e3"
     },
     {
+      "mod_version_id": "59bce818-a87c-4295-b162-601a90f7a940",
       "name": "Hide Relic Overflow",
       "version": "1.1.0",
       "source": null,
@@ -240,6 +250,7 @@
       "bundle_sha256": "4589d5e794cb905bf16fca1c69e6b3eeee033b0e3d34d86451213950afe5db97"
     },
     {
+      "mod_version_id": "e78a30ee-a587-4db2-bf89-1df8c43b0da1",
       "name": "KaguyaRegentMSGKSkin",
       "version": "v0.1",
       "source": null,
@@ -256,6 +267,7 @@
       "bundle_sha256": "bbd7e6fdf1b0d08f457c1019c1797bff7820e59c0342bffc9e5fee3261ba45f4"
     },
     {
+      "mod_version_id": "6c30c940-ea72-48e2-8513-9a384cf972ff",
       "name": "Library Of Ruina",
       "version": "v0.4.0[public/beta]",
       "source": null,
@@ -275,6 +287,7 @@
       "bundle_sha256": "a5beb2329fbf6ae66b5e9ebb6a7d3927be0e7bea7e5da7689920e60dd792ae39"
     },
     {
+      "mod_version_id": "f8772e5e-8a61-4d89-8f36-a251c5873902",
       "name": "ModManagerSettings",
       "version": "1.1.1",
       "source": null,
@@ -291,6 +304,7 @@
       "bundle_sha256": "fb79aaba7c72116483c2a4378ffbb7cb568fe635bbe38d553f40539d25604e4d"
     },
     {
+      "mod_version_id": "a27f8911-c197-4dbd-9e80-05d742e9cd00",
       "name": "ModSync",
       "version": "v1.04",
       "source": "nexus:slaythespire2/mods/84",
@@ -307,6 +321,7 @@
       "bundle_sha256": "67654427dc07fd6dc3f4b598af37746424c1753a01d835c3aa3b4151fadbf927"
     },
     {
+      "mod_version_id": "83f34474-889b-4b7b-85c5-6458f2d03b37",
       "name": "More Ascensions",
       "version": "v1.0.0",
       "source": null,
@@ -323,6 +338,7 @@
       "bundle_sha256": "5ca64d00afccf3e7a8c5f909139bba451e53aa37e228b8d536947b9ff29cf400"
     },
     {
+      "mod_version_id": "d77ffab5-d85f-4c2e-b09c-2558fb986c08",
       "name": "MultiEnchantmentMod",
       "version": "v1.3",
       "source": null,
@@ -339,6 +355,7 @@
       "bundle_sha256": "396e5155757f43b0dad2b5677384bd78800950fc183b57d500b92082bbe1717f"
     },
     {
+      "mod_version_id": "6c3da210-5254-4f12-8e0f-990645a91e53",
       "name": "Necrobinder Osty Vaalmonica Mod",
       "version": "0.9.2",
       "source": null,
@@ -355,6 +372,7 @@
       "bundle_sha256": "f71a094cf44a493f5dfb3a842e6f5f1db95139e9a10da7bb578fba531f10c5ad"
     },
     {
+      "mod_version_id": "a5eb9345-8e7b-425a-a77a-650ff30d09b7",
       "name": "NecroCastoriceCards",
       "version": "1.0",
       "source": null,
@@ -371,6 +389,7 @@
       "bundle_sha256": "9bb106bcd34b1379d22e877dda4ebdd44183ed8bab9372ce3991b4f57972b6f3"
     },
     {
+      "mod_version_id": "75e664ac-525c-48ac-9297-af6778ee6453",
       "name": "New Game +",
       "version": "v1.89",
       "source": null,
@@ -387,6 +406,7 @@
       "bundle_sha256": "4c80e0bf8019d7a69abadacc4b11fa0b62efb48c4d7f638ec47be29baaea0d65"
     },
     {
+      "mod_version_id": "4bbc6546-9dc2-4ddd-86e1-84121255674d",
       "name": "PermaProg",
       "version": "v0.6.3",
       "source": null,
@@ -403,6 +423,7 @@
       "bundle_sha256": "df2f9ed82f71907cb65f1996c2deead71ede1749df4c884ceb35cb6c5c95296c"
     },
     {
+      "mod_version_id": "dd41ee4f-446c-4d12-83bd-0a1046770c43",
       "name": "Portalcraft",
       "version": "v0.2.7",
       "source": null,
@@ -419,6 +440,7 @@
       "bundle_sha256": "087697950170f45f84736a5bf88a1498be1166ebbdafe5d4143e4c291e380b47"
     },
     {
+      "mod_version_id": "31b25c45-463d-40c4-a5cd-71151ad9e55e",
       "name": "PrincessPatch",
       "version": "v1.0.0",
       "source": null,
@@ -435,6 +457,7 @@
       "bundle_sha256": "6044194ec40fcbbaa9dd461a47a414ba45b26bed21861d6fad05ed58a32c3d99"
     },
     {
+      "mod_version_id": "f1dee0f4-c308-40ad-884a-3844d2c962c1",
       "name": "RefreshAncient",
       "version": "v1.3.3",
       "source": null,
@@ -451,6 +474,7 @@
       "bundle_sha256": "6c5f4765abdb42c7fc433a4dd0a2354a8d14f786df504726d2c8e9c72e88b264"
     },
     {
+      "mod_version_id": "047897c3-6a93-4cdd-b528-488a8c1412f1",
       "name": "RegentCardsAnimeRework",
       "version": "v0.6",
       "source": "github:DoublePigeon/RegentCardsAnimeRework",
@@ -467,6 +491,7 @@
       "bundle_sha256": "8b3b05d5d26f08b566fce74eb5d87e1323c01e8beeb4f8726b45deed2dbe92f5"
     },
     {
+      "mod_version_id": "c20cb9a8-62b8-4ea9-ad86-6f854066d9c4",
       "name": "Relic Reward Choice",
       "version": "1.7.0",
       "source": null,
@@ -483,6 +508,7 @@
       "bundle_sha256": "3d92285d349984d36b71b725b51c7ca26452e7886fc21c11216cc6cd7115a710"
     },
     {
+      "mod_version_id": "8d820c59-9fa0-407b-87a6-d63d68e58069",
       "name": "Remilia",
       "version": "v0.0.1",
       "source": null,
@@ -526,6 +552,7 @@
       "bundle_sha256": "b64a7799f85000759aad69f173b475a43d0e7bffcb155b9e30d7ef7c4d39079e"
     },
     {
+      "mod_version_id": "44d15db2-3d93-4b45-960a-dd6c10d378cb",
       "name": "RevampedSkulkingColony",
       "version": "v0.0.0",
       "source": null,
@@ -542,8 +569,9 @@
       "bundle_sha256": "07e6d320317b0c8c2110b006bbcd11ae6797bcecc59283bcd086e6d3feb3ce48"
     },
     {
+      "mod_version_id": "bfa6d11e-1bb2-4284-a1e9-0f545dc9768a",
       "name": "RitsuLib (STS2 0.103.2 compat)",
-      "version": "0.3.0",
+      "version": "0.4.24",
       "source": "github:BAKAOLC/STS2-RitsuLib",
       "hash": "7581a1846b136e41c48c31bea4d83e1797df58228c22c695f1b3b3c8a784a108",
       "files": [
@@ -551,15 +579,19 @@
         "STS2-RitsuLib\\mod_manifest.json",
         "STS2-RitsuLib\\STS2-RitsuLib.dll",
         "STS2-RitsuLib\\STS2-RitsuLib.pdb",
-        "STS2-RitsuLib\\STS2-RitsuLib.xml"
+        "STS2-RitsuLib\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\viewer\\assets\\index.css",
+        "STS2-RitsuLib\\viewer\\assets\\index.js",
+        "STS2-RitsuLib\\viewer\\index.html"
       ],
       "folder_name": "STS2-RitsuLib",
       "mod_id": "STS2-RitsuLib",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/RitsuLib_.STS2_0_103_2_compat._v0.3.0_fa46e34e.zip",
-      "bundle_sha256": "fa46e34e0ef58e4a51afd657082d6c377ba3a97e63b17fda2620ce897fbf44f9"
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/RitsuLib_.STS2_0_103_2_compat._v0.4.24_3fbffdaa.zip",
+      "bundle_sha256": "3fbffdaaff5a69ba4e066aa921caad2071df916eef0370bcac1303f8ae35652f"
     },
     {
+      "mod_version_id": "6b715312-4f53-4f07-95c1-29b8b95501d7",
       "name": "Sound Replacer",
       "version": "0.3.8",
       "source": null,
@@ -603,6 +635,7 @@
       "bundle_sha256": "2c2148123926a126acf82156c3cb41b23d8eab77f9ec24d654c02e55f93637a0"
     },
     {
+      "mod_version_id": "5c92afd8-5d66-4207-885b-b5cf3a859403",
       "name": "Start With Miniature Tent",
       "version": "1.0.0",
       "source": null,
@@ -619,6 +652,7 @@
       "bundle_sha256": "3e9e776aee50065221479dc5dcf63176930b794f678f6b4461eeb3c7f4079f9c"
     },
     {
+      "mod_version_id": "1c7443cc-493c-43cc-9b85-7b3a44b9246f",
       "name": "STS2-点击打牌",
       "version": "2.2.5",
       "source": null,
@@ -634,6 +668,7 @@
       "bundle_sha256": "64d3dfb916725bb740eabc68302a72c85ae4bb9181fabc706d8c06b7b951e35b"
     },
     {
+      "mod_version_id": "5023561f-3789-4fee-8969-76b5abf32967",
       "name": "STS2CardsMod",
       "version": "1.1.0",
       "source": null,
@@ -649,6 +684,7 @@
       "bundle_sha256": "b121299a3e0f4f01ca956f692b6ab10cf9c70102184bda3a692466fe2856f71f"
     },
     {
+      "mod_version_id": "af68b80a-8ac2-4a05-b2b6-296acb1364bb",
       "name": "StS2Hoshino",
       "version": "v0.0.12",
       "source": null,
@@ -665,6 +701,7 @@
       "bundle_sha256": "18feb8b321c4b21089df12a75476cde3367e8f536d021ab9b9b17ae01a17dc9d"
     },
     {
+      "mod_version_id": "deecba1f-502a-4f1c-b060-b9ddad804eee",
       "name": "Unified Save Path",
       "version": "1.0.0",
       "source": "github:luojiesi/SLS2Mods",
@@ -681,6 +718,7 @@
       "bundle_sha256": "3966fd23813432cd907271accde25b335e4f2821308078bf85876ce2595365a9"
     },
     {
+      "mod_version_id": "b62b1368-1719-47fb-9799-18b255fee58e",
       "name": "VoiceModFramework",
       "version": "1.0.0",
       "source": null,
@@ -863,6 +901,7 @@
       "bundle_sha256": "b85dd30d58cd2728b2add31a05c9ab2a305b602e92db27cbbe0e093fad4c2776"
     },
     {
+      "mod_version_id": "cdcbec91-b435-4397-8631-0c61cd63683c",
       "name": "Watcher",
       "version": "v1.4.3",
       "source": "nexus:slaythespire2/mods/46",
@@ -875,10 +914,11 @@
       "folder_name": "Watcher",
       "mod_id": "Watcher",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Watcher_v1.4.3_7e8e91a9.zip",
-      "bundle_sha256": "7e8e91a9695471af600765b533182b244ad0374adaeedb9422b5308d12bc53c2"
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Watcher_v1.4.3_41b78879.zip",
+      "bundle_sha256": "41b788794224c03e70b472f40afd8114ea28a5105d8f3094a9bf039e6545afb3"
     },
     {
+      "mod_version_id": "3c1a36d3-9ddf-4729-9189-3a4c3da665c2",
       "name": "ZSproject",
       "version": "unknown",
       "source": null,
@@ -893,6 +933,7 @@
       "bundle_sha256": "709e76476e6d2b6518095e5d0c2faee3e4ed15090f34d0190f8ae91f0831f24f"
     },
     {
+      "mod_version_id": "2dbe0314-acbb-4402-bf2d-ee96cf5cdcec",
       "name": "机娘“阿塔”",
       "version": "0.1.5",
       "source": null,
@@ -909,6 +950,7 @@
       "bundle_sha256": "d00efcfd8d2c24e01b63dd97a30933b91bf29b83eb6299b7a1715da92b000168"
     },
     {
+      "mod_version_id": "4616f158-cbd2-4b75-ba44-89cc3d8cd72b",
       "name": "皮皮配置: ModConfig",
       "version": "0.2.1",
       "source": "github:xhyrzldf/ModConfig-STS2",
@@ -928,6 +970,7 @@
       "bundle_sha256": "31854ce565bd4a881a048b033d8cf5e5c3be93b1adb90730d5e9e31a33d32777"
     },
     {
+      "mod_version_id": "c8f6f53e-7c45-4001-89ee-00761a1b55f5",
       "name": "霞沢美游[Kasumizawa Miyu]",
       "version": "1.0.3.8.12.0",
       "source": null,
@@ -944,6 +987,7 @@
       "bundle_sha256": "2113d35a1d54bb9a0efa10dc99a490ef37cda1fb1c4bc582a5429febbc2b3971"
     },
     {
+      "mod_version_id": "8e80e6bd-5e77-48e8-b2ea-dc8b7bea0b2b",
       "name": "DeckStats",
       "version": "v1.0.0",
       "source": null,
@@ -959,6 +1003,7 @@
       "bundle_sha256": "8c85a68e5fd8d54572d0c66fece910112c0152f479554c69066178fe947fb30d"
     },
     {
+      "mod_version_id": "1026c4b6-58b2-4716-8b48-9e9bfe8b3854",
       "name": "Rest Site Upgrade All",
       "version": "0.1.0",
       "source": null,
@@ -974,6 +1019,7 @@
       "bundle_sha256": "5a1acb06656b9c404313e3ad721b8ac52ec6b81d31e3228c14305602e9e921ef"
     },
     {
+      "mod_version_id": "e6c99928-1e8b-46f2-9f58-a231ac584306",
       "name": "二阶堂希罗角色模组",
       "version": "v0.0.2",
       "source": null,
@@ -990,6 +1036,7 @@
       "bundle_sha256": "5bbfe4654daa610a43a49c65a17d734074f0eebc11afef8fa16d81ba674d1a5f"
     },
     {
+      "mod_version_id": "0fe69a88-a7fd-4bea-9537-d6ad0cf95d1d",
       "name": "殺進夏萊",
       "version": "v0.0.1",
       "source": null,
@@ -1008,8 +1055,9 @@
       "bundle_sha256": "875f9f12289833b9564316ad3a5fbd4138b144d6b94a30c38155bca416684c71"
     },
     {
+      "mod_version_id": "a3eb9cae-c23d-4a17-8150-62189b0d0b95",
       "name": "BetterSpire2 Lite",
-      "version": "v1.82.3",
+      "version": "v1.83.1",
       "source": "nexus:slaythespire2/mods/2",
       "hash": "ecc5b0a1a69304913909c513f9231888fd12be0cf266c6ca1eda8f1d1ac98e58",
       "files": [
@@ -1034,10 +1082,11 @@
       "folder_name": "BetterSpire2Lite",
       "mod_id": "BetterSpire2Lite",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/BetterSpire2_Lite_v1.82.3_1f2703de.zip",
-      "bundle_sha256": "1f2703decacaa21fd57d9e86ed6fa4d7b619bfa8daadf5d4fce270d4bf92ddae"
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/BetterSpire2_Lite_v1.83.1_283d1dc0.zip",
+      "bundle_sha256": "283d1dc00b54c2ffccc3d16d1db9fd02819fc6778ebc51d08bb4d76a64fe784e"
     },
     {
+      "mod_version_id": "540bd384-a294-4099-881e-967dd55390ef",
       "name": "AutoPath",
       "version": "1.3.2",
       "source": "github:jadistanbelly/autopath-sts2",
@@ -1053,6 +1102,7 @@
       "bundle_sha256": "89721d3a033c4f2b64ac45f1a2cbc32474e53dd89c9964a1e7a8998ee3f081c1"
     },
     {
+      "mod_version_id": "c03f6bd9-6bfa-4a16-831c-373fb73fc5f6",
       "name": "AliceDefectSkin V2.0",
       "version": "2.0",
       "source": null,
@@ -1102,6 +1152,7 @@
       ]
     },
     {
+      "mod_version_id": "55d28aef-d248-4621-813b-856a006bd161",
       "name": "Act 4: Final Ascent",
       "version": "0.1.2e",
       "source": "github:kphxgames/Act4FinalAscent",
@@ -1118,6 +1169,7 @@
       "bundle_sha256": "ab848eaa5cbbc33595a3223f2f3e54948f5c5366c4023b82490554479fcb0f62"
     },
     {
+      "mod_version_id": "9d775f67-9921-4f34-982a-60a4ae8cdbdd",
       "name": "Highlight Card Types in Potion Description",
       "version": "v0.1.3",
       "source": "github:SyraLessThanThree/HighlightPotionCards",
@@ -1134,21 +1186,7 @@
       "bundle_sha256": "066eeed4a404695b0cbe2795b7dd2b2c75a010c8a893d03a63a616581bcb52dc"
     },
     {
-      "name": "Flagellant",
-      "version": "unknown",
-      "source": "nexus:slaythespire2/mods/1073",
-      "hash": "b39e225e52e328202354ae1f6993d8c2504b775f75ba90b364dd606fdb8335de",
-      "files": [
-        "Flagellant/Flagellant.dll",
-        "Flagellant/Flagellant.json",
-        "Flagellant/Flagellant.pck"
-      ],
-      "folder_name": "Flagellant",
-      "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Flagellant_vunknown_017fcb0d.zip",
-      "bundle_sha256": "017fcb0dcccaf3cd07df2f51918a1d27f136aaa0acba3c84bcdf29358478a818"
-    },
-    {
+      "mod_version_id": "9830d78f-6e1c-472a-a111-8695c6bcecb8",
       "name": "sts2AITeammate",
       "version": "1.0.2",
       "source": "github:SallyHong2347/sts2-ai-teammate",
@@ -1170,8 +1208,9 @@
       "bundle_sha256": "662e5402ebb96b0aedd4f7cf5c675cdf2ce2b664dd726762c0f95f7243db1cf8"
     },
     {
+      "mod_version_id": "60186dc6-3c1f-4a24-a663-7731f54e9a4c",
       "name": "StS2 Card Advisor",
-      "version": "v1.15.4",
+      "version": "v1.15.6",
       "source": "nexus:slaythespire2/mods/627",
       "hash": "b15900d46543136d712f73310803d278221baf3317b3ebeede575ca205129f81",
       "files": [
@@ -1181,10 +1220,11 @@
       "folder_name": "Sts2CardAdvisor",
       "mod_id": "Sts2CardAdvisor",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/StS2_Card_Advisor_v1.15.4_4b092a03.zip",
-      "bundle_sha256": "4b092a032ab3ef0daf19f187ee6b4a9fa5ab485f24203eb2b011717002ca3f48"
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/StS2_Card_Advisor_v1.15.6_1869d2e2.zip",
+      "bundle_sha256": "1869d2e2575a0f2d6226504af4954e39ffb2ddb69c1f63d78c3a0ff5294aa48c"
     },
     {
+      "mod_version_id": "51d653d2-43ed-402a-823f-d23c8d576988",
       "name": "Relic Rarity Display",
       "version": "1.1",
       "source": "nexus:slaythespire2/mods/28",
@@ -1202,6 +1242,7 @@
       "bundle_sha256": "52cbb8e2889af3f7607aa504e002e6349bc49a5e95859b1c47e037164a5997ef"
     },
     {
+      "mod_version_id": "6e4db43a-137f-4cda-aef8-3ad0616c0f7a",
       "name": "皮皮极速: SpeedX",
       "version": "0.11.7",
       "source": "nexus:slaythespire2/mods/91",
@@ -1218,6 +1259,7 @@
       "bundle_sha256": "d136d252eee4417dc1855ff5beb79e7547b5c775f36b66d8f9d1d7f60b20f23a"
     },
     {
+      "mod_version_id": "dccfc01e-7d51-4b05-8a23-a376b0de0fd7",
       "name": "Multi-Hit Damage",
       "version": "1.4",
       "source": "nexus:slaythespire2/mods/50",
@@ -1235,23 +1277,24 @@
       "bundle_sha256": "54d03c119643694a29b2c770a77220734f5c13a0a8f365fa9c3b93173a42f309"
     },
     {
+      "mod_version_id": "d3de85e9-6432-4460-8048-112f5294bd47",
       "name": "Relics Reminder",
       "version": "0.1.0",
       "source": "nexus:slaythespire2/mods/284",
       "hash": "68d5224995ef4c6ae954aab918185188c0dd2d10f6a89ce85a08dfb37fd3d1e9",
       "files": [
-        "RelicsReminder\\RelicsReminder.dll",
-        "RelicsReminder\\RelicsReminder.json",
-        "RelicsReminder\\RelicsReminder_init_marker_local.txt",
-        "RelicsReminder\\__folder_managed_by_vortex"
+        "RelicsReminder_dll\\RelicsReminder.dll",
+        "RelicsReminder_dll\\RelicsReminder.json",
+        "RelicsReminder_dll\\RelicsReminder_init_marker_local.txt"
       ],
-      "folder_name": "RelicsReminder",
+      "folder_name": "RelicsReminder_dll",
       "mod_id": "RelicsReminder",
       "enabled": true,
-      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Relics_Reminder_v0.1.0_65a791a7.zip",
-      "bundle_sha256": "65a791a711f456c7b6f967ccd717e44572386604b9ccf6119708bf23559285ac"
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Relics_Reminder_v0.1.0_cfe99dd4.zip",
+      "bundle_sha256": "cfe99dd4539aaf685153dba478adfcbb50ae53eea14c13f1e2ee68dc08b51391"
     },
     {
+      "mod_version_id": "6d2c39df-708a-4c90-b8ba-4aed74533c1d",
       "name": "RouteSuggest",
       "version": "1.9.0",
       "source": "github:jiegec/STS2RouteSuggest",
@@ -1267,10 +1310,49 @@
       "enabled": true,
       "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/RouteSuggest_v1.9.0_5fbf3893.zip",
       "bundle_sha256": "5fbf3893ef31b8c6bbcf0ddb1bd505fca4cd39ce28d35df4d8a0c188151f8702"
+    },
+    {
+      "mod_version_id": "dd1463d6-5597-4e80-bb0a-98cab3064346",
+      "name": "Stats the Spire",
+      "version": "0.16.2",
+      "source": "nexus:slaythespire2/mods/781",
+      "hash": "962a23f02f84621ceeab30dc4457a1694effe84a7ae33f94bdc4551febc5af1f",
+      "files": [
+        "stats_the_spire\\manifest.json",
+        "stats_the_spire\\README_EN.md",
+        "stats_the_spire\\README_ZH.md",
+        "stats_the_spire\\settings.cfg",
+        "stats_the_spire\\sts2_community_stats.dll",
+        "stats_the_spire\\test\\mock_server.py",
+        "stats_the_spire\\test\\test_data.json",
+        "stats_the_spire\\test\\uploaded_runs.json",
+        "stats_the_spire\\test\\VERIFICATION_CHECKLIST.md"
+      ],
+      "folder_name": "stats_the_spire",
+      "mod_id": "sts2_community_stats",
+      "enabled": true,
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/Stats_the_Spire_v0.16.2_478dc36d.zip",
+      "bundle_sha256": "478dc36d757b398851c3104a1134b56ca81c11017183dc8cc3793283c6c13351"
+    },
+    {
+      "mod_version_id": "f0d09487-39ec-424e-b4a0-6d50eac1cf50",
+      "name": "End Run Graph",
+      "version": "0.3.1",
+      "source": "nexus:slaythespire2/mods/1040",
+      "hash": "ee4d9727ea989865595b1d563fc00506a13c91b7045b2f27c6faad27b1e5924e",
+      "files": [
+        "EndRunGraph-v03.1-Beta-STS2-v0.107.0\\EndRunGraph.dll",
+        "EndRunGraph-v03.1-Beta-STS2-v0.107.0\\mod_manifest.json"
+      ],
+      "folder_name": "EndRunGraph-v03.1-Beta-STS2-v0.107.0",
+      "mod_id": "EndRunGraph",
+      "enabled": true,
+      "bundle_url": "https://github.com/MohamedSerhan/sts2mm-profiles/releases/download/bundles/End_Run_Graph_v0.3.1_bd60ca8e.zip",
+      "bundle_sha256": "bd60ca8e6a35e6f061d186c93f50553f69bc86c9b441f3001ab416c5d06919df"
     }
   ],
   "created_at": "2026-05-14T22:54:12.100826200Z",
-  "updated_at": "2026-06-14T22:53:17.212484400Z",
+  "updated_at": "2026-06-18T15:34:59.476844300Z",
   "public": false,
   "mod_extras": {
     "STS2-RitsuLib": {
